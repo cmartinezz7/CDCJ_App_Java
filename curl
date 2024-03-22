@@ -1,0 +1,5 @@
+    PID  TTY        STIME COMMAND
+   1861 ?        00:31:06 /usr/bin/mintty
+   1895 pty0     00:32:09 /usr/bin/bash
+   1862 pty0     00:31:07 /usr/bin/bash
+   1894 pty0     00:32:09 /usr/bin/PS

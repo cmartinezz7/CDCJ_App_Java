@@ -1,0 +1,7 @@
+organization=cmartinezz7-2
+projectKey=cmartinezz7_CDCJ_APP_Android
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53470
+dashboardUrl=https://sonarcloud.io/dashboard?id=cmartinezz7_CDCJ_APP_Android
+ceTaskId=AY5nDc2vikoGEZW12lyZ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY5nDc2vikoGEZW12lyZ

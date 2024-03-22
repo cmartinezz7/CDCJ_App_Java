@@ -1,0 +1,9 @@
+package com.google.android.libraries.places.internal;
+
+/* 'enum' modifier removed */
+/* compiled from: com.google.android.libraries.places:places@@2.0.0 */
+final class zzuk extends zzuf {
+    zzuk(String str, int i, zzum zzum, int i2) {
+        super(str, 10, zzum, 2, (zzug) null);
+    }
+}

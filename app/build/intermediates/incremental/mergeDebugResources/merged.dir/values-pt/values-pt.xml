@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="bl_24_hours">24h</string>
+    <string name="bl_accessibility">Acessibilidade</string>
+    <string name="bl_accessibility_handicaped">Acesso para cadeira de rodas</string>
+    <string name="bl_additional_services">Serviços adicionais</string>
+    <string name="bl_aditional_services_filters">Serviços adicionais</string>
+    <string name="bl_apply_filter">Aplicar filtros</string>
+    <string name="bl_atm">Caixa Eletrônico</string>
+    <string name="bl_audio_guidance">Guia de áudio</string>
+    <string name="bl_bill_payments">Pagamento de contas</string>
+    <string name="bl_braches_and_atms"> Agências e Caixas eletrônicos</string>
+    <string name="bl_branch">Agência</string>
+    <string name="bl_branchInfoATM">Caixa Eletrônico</string>
+    <string name="bl_branchInfoBranch">Agência</string>
+    <string name="bl_branchInfoCorresponsales">Parceiros</string>
+    <string name="bl_call">Ligar</string>
+    <string name="bl_cancel">Cancelar</string>
+    <string name="bl_card_issuer">Emissor de cartão na hora</string>
+    <string name="bl_clear_filter">Excluir tudo</string>
+    <string name="bl_closed">Fechado</string>
+    <string name="bl_closest_branch">Resultado mais próximo</string>
+    <string name="bl_closing_in">Closing in</string>
+    <string name="bl_closing_in_closed">Closed</string>
+    <string name="bl_closing_in_open">Atualmente aberto</string>
+    <string name="bl_companies">Agência corporativa</string>
+    <string name="bl_contactless">Contactless</string>
+    <string name="bl_coworking_spaces">Espaços de trabalho compartilhado</string>
+    <string name="bl_coworking_spaces_filters">Espaço de trabalho compartilhado</string>
+    <string name="bl_deposit_money">Depositar dinheiro</string>
+    <string name="bl_drive_thru">Drive thru</string>
+    <string name="bl_english_spoken">Atendimento em inglês</string>
+    <string name="bl_facilities">Facilidades</string>
+    <string name="bl_fees_basic_clients">Comissão %1$s</string>
+    <string name="bl_fees_basic_no_clients">Clientes: %1$s</string>
+    <string name="bl_fees_no_client">Nenhum cliente: %1$s</string>
+    <string name="bl_fees_no_fee">Sem comissão</string>
+    <string name="bl_fees_santander">Clientes do Santanderr: %1$s</string>
+    <string name="bl_fees_select">Clientes do Select: %1$s</string>
+    <string name="bl_fees_title">Comissões</string>
+    <string name="bl_filter">Filtro</string>
+    <string name="bl_filter_title">Filtros</string>
+    <string name="bl_filters"><u>Filtros</u></string>
+    <string name="bl_financial">Serviços financeiros</string>
+    <string name="bl_friday">Sexta-feira</string>
+    <string name="bl_gestors">Executivos especializados em:</string>
+    <string name="bl_go_to_settings">Ir para Ajustes</string>
+    <string name="bl_gps_locate_you">Nós precisamos da permissão do GPS para localizar você</string>
+    <string name="bl_gps_mode">Precisamos do modo GPS de alta precisão para localizar você</string>
+    <string name="bl_incidents_phone">Telefone para incidentes</string>
+    <string name="bl_individuals">Agências individuais</string>
+    <string name="bl_invalid_data">Invalid data</string>
+    <string name="bl_inversion">- Investimentos</string>
+    <string name="bl_kilometer">%1$s km</string>
+    <string name="bl_list_tab_title">Lista</string>
+    <string name="bl_location">Localização</string>
+    <string name="bl_low_denomination_bills">Notas de baixo valor</string>
+    <string name="bl_make_appointment">Visita</string>
+    <string name="bl_map_tab_title">Mapa</string>
+    <string name="bl_meeting_rooms">Salas de reunião</string>
+    <string name="bl_meter">%1$s m</string>
+    <string name="bl_min">min.</string>
+    <string name="bl_monday">Segunda-feira</string>
+    <string name="bl_mortgage">- Hipotecas</string>
+    <string name="bl_most_popular">Mais populares</string>
+    <string name="bl_multichanel_area">Multicanal</string>
+    <string name="bl_network_ask_to_enable">Enable mobile data?</string>
+    <string name="bl_network_disabled">Unable to access data</string>
+    <string name="bl_network_info">Network info</string>
+    <string name="bl_network_offline">You have lost connection to your network. Markers won\'t be able to update</string>
+    <string name="bl_network_offline_try_again">You haven\'t access to your network. Please try in a few minutes</string>
+    <string name="bl_network_online">You reconnected to your network</string>
+    <string name="bl_no_fee">Sem taxas</string>
+    <string name="bl_non_financial">Não financeira</string>
+    <string name="bl_notices_and_news">Notícias e novidades</string>
+    <string name="bl_now_available">Disponível agora</string>
+    <string name="bl_open_now">Aberto agora</string>
+    <string name="bl_opens_evenings">Aberto até tarde</string>
+    <string name="bl_opens_saturdays">Aberto aos sábados</string>
+    <string name="bl_operative">Em operação</string>
+    <string name="bl_other_atms">Outros caixas eletrônicos</string>
+    <string name="bl_out_of_order">Fora de serviço</string>
+    <string name="bl_parking">Estacionamento</string>
+    <string name="bl_parking_filters">Estacionamento</string>
+    <string name="bl_partners">Parceiros</string>
+    <string name="bl_pastor">Agência Pastor</string>
+    <string name="bl_pay">Pagamentos</string>
+    <string name="bl_permission">Permissão</string>
+    <string name="bl_phone">Número de contato</string>
+    <string name="bl_placeholder_has_no_filters">Nenhum filtro aplicado</string>
+    <string name="bl_points_of_interest">Pontos de interesse</string>
+    <string name="bl_popular">Agência Popular</string>
+    <string name="bl_private_banking">Agência Private</string>
+    <string name="bl_pymes">- SME</string>
+    <string name="bl_pymes_filters">Agência SME</string>
+    <string name="bl_reserve">Marcar uma consulta</string>
+    <string name="bl_santader_select">Agências Select</string>
+    <string name="bl_santander">Santander</string>
+    <string name="bl_santander_atms_filters">Caixa Eletrônico Santander</string>
+    <string name="bl_saturday">Sábado</string>
+    <string name="bl_schedule">Horário de oficina</string>
+    <string name="bl_schedule_cash">Horário de caixa no local</string>
+    <string name="bl_search_in_this_place">Buscar neste local</string>
+    <string name="bl_search_placeholder">Procure aqui</string>
+    <string name="bl_security_box">Cofre de segurança</string>
+    <string name="bl_security_box_filters">Caixa de segurança</string>
+    <string name="bl_select">- Select</string>
+    <string name="bl_services">Serviços básicos</string>
+    <string name="bl_show_less">Ver menos</string>
+    <string name="bl_show_more">Ver mais</string>
+    <string name="bl_special_schedule">Horário especial</string>
+    <string name="bl_sunday">Domingo</string>
+    <string name="bl_thursday">Quinta-feira</string>
+    <string name="bl_toast_closest_search">Resultados mais próximos à sua pesquisa</string>
+    <string name="bl_toast_filter_apply">Filtros aplicados</string>
+    <string name="bl_toast_filter_no_results">Nenhum resultado encontrado para os filtros aplicados</string>
+    <string name="bl_toast_filter_results_nearest">Resultado próximo para o filtro selecionado</string>
+    <string name="bl_toast_getting_position">Obtendo a posição atual</string>
+    <string name="bl_toast_no_filters">No existen filtros configurados</string>
+    <string name="bl_toast_no_poi_area">Nenhum resultado neste local</string>
+    <string name="bl_toast_no_results">Nenhum resultado para </string>
+    <string name="bl_toast_search_empty">Por favor, preencha a cidade, endereço ou CEP para ser possível realizar a pesquisa</string>
+    <string name="bl_today">Today,</string>
+    <string name="bl_toolbar_title">ATMs e escritórios</string>
+    <string name="bl_tuesday">Terça-feira</string>
+    <string name="bl_undo_filter">Desfazer</string>
+    <string name="bl_videoconference">Vídeo conferência</string>
+    <string name="bl_wednesday">Quarta-feira</string>
+    <string name="bl_wheelchair_access">Acesso para cadeira de rodas</string>
+    <string name="bl_wifi">Wi-Fi</string>
+    <string name="bl_wifi_filters">Wi-Fi</string>
+    <string name="bl_withdraw_money">Sacar dinheiro</string>
+    <string name="bl_withdraw_without_card">Sacar dinheiro sem cartão</string>
+    <string name="bl_workcafe">Workcafe</string>
+    <string name="dash_separator">-</string>
+    <string name="km">km</string>
+    <string name="loading">Carregando</string>
+    <string name="milles">mi</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string name="securekeyboard_OK">OK</string>
+    <string name="securekeyboard_cancel">Cancelar</string>
+    <string name="securekeyboard_continue">Continuar</string>
+    <string name="securekeyboard_done">Concluído</string>
+    <string name="securekeyboard_title_select_keyboard_language">Selecione o idioma do teclado</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

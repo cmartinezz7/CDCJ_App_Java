@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="max_size_toolbar_title">190dp</dimen>
+    <dimen name="tab_badge_long_margin_left">15dp</dimen>
+    <dimen name="tab_badge_long_margin_top">0dp</dimen>
+    <dimen name="tab_badge_long_size_heigth">19dp</dimen>
+    <dimen name="tab_badge_long_size_width">26dp</dimen>
+    <dimen name="tab_badge_margin">10dp</dimen>
+    <dimen name="tab_badge_size">19dp</dimen>
+    <dimen name="tab_badge_small_margin_top">7dp</dimen>
+    <dimen name="tab_badge_small_size">5dp</dimen>
+    <dimen name="tab_badge_stroke_size">3dp</dimen>
+    <dimen name="tab_badge_text_size">8sp</dimen>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle.Common">
+          <item name="barLength">18.66dp</item>
+          <item name="gapBetweenBars">3.33dp</item>
+          <item name="drawableSize">24dp</item>
+     </style>
+</resources>

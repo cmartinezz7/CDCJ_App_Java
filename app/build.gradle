@@ -1,0 +1,219 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+    // dexOptions {
+    // Prevent OutOfMemory with MultiDex during the build phase
+    //     javaMaxHeapSize "5120M"
+    // }
+    aaptOptions {
+        cruncherEnabled = false
+    }
+    useLibrary 'org.apache.http.legacy'
+    dexOptions {
+        javaMaxHeapSize "4096M"
+    }
+    project.ext {
+        archivesBaseName = "MinisterioJusticia"
+    }
+    signingConfigs {
+        debug {
+            keyAlias 'llave'
+            keyPassword '1234567890'
+            storeFile file('llave_android.keystore')
+            storePassword '1234567890'
+        }
+        /*  debug {
+             keyAlias 'ministeriojusticia2018'
+             keyPassword 'ministeriojusticia2018'
+             storeFile file('ministeriojusticia2018.keystore')
+             storePassword 'ministeriojusticia2018'
+         }*/
+        /*debug {
+            keyAlias 'alias_name'
+            keyPassword 'mobility'
+            storeFile file('my-release-key.keystore')
+            storePassword 'mobility'
+        }*/
+    }
+    compileSdkVersion 33
+    defaultConfig {
+        applicationId "es.santander.justicia"
+        minSdkVersion 23
+        targetSdkVersion 33
+        versionCode 44
+        versionName '2.0'
+
+        multiDexEnabled true
+
+        externalNativeBuild {
+            cmake {
+                cppFlags ""
+            }
+        }
+
+        ndk {
+
+        }
+
+        buildConfigField("Boolean", "SSL_ACTIVE", "false")
+    }
+
+
+    externalNativeBuild {
+        ndkBuild {
+            path file('src/main/jni/Android.mk')
+        }
+        /* cmake {
+             path "src/main/cpp/CMakeLists.txt"
+             version "3.10.2"
+         }*/
+    }
+
+
+    packagingOptions {
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField("Boolean", "SSL_ACTIVE", "true")
+        }
+        debug {
+            signingConfig signingConfigs.debug
+            /*debuggable false*/
+        }
+    }
+    sourceSets { main { assets.srcDirs = ['src/main/assets', 'src/main/assets/'] } }
+    productFlavors {
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    ndkVersion '25.0.8775105'
+}
+
+
+repositories {
+    maven {
+        url 'https://oss.sonatype.org/content/repositories/ksoap2-android-releases/'
+    }
+    maven {
+        url 'https://jitpack.io'
+    }
+
+    mavenCentral()
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    // SSL pinning library
+    implementation(name: 'securitylibrary-release', ext: 'aar')
+    implementation(name: 'tealium-5.0.4', ext: 'aar')
+    implementation(name: 'pager_indicator', ext: 'aar')
+
+    //implementation files('libs/ACEMPMOVContratos_v1_1_1.jar')
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.6.0'
+    implementation 'com.google.code.ksoap2-android:ksoap2-android-assembly:3.6.2'
+    implementation 'com.google.android.gms:play-services-analytics:10.0.1'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.multidex:multidex:2.0.1'
+    implementation 'net.opacapp:multiline-collapsingtoolbar:1.2.2'
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.10.2'
+    implementation 'com.fasterxml.jackson.core:jackson-annotations:2.10.2'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.10.2'
+    testImplementation 'junit:junit:4.13'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'com.bignerdranch.android:expandablerecyclerview:3.0.0-RC1'
+    implementation 'com.github.alexandrius:accordion-swipe-layout:0.4.3'
+    implementation('com.squareup.retrofit2:converter-simplexml:2.7.2') {
+        exclude group: 'stax', module: 'stax-api'
+        exclude group: 'stax', module: 'stax'
+        exclude group: 'xpp3', module: 'xpp3'
+    }
+    implementation 'androidx.annotation:annotation:1.1.0'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'net.zetetic:android-database-sqlcipher:3.5.9@aar'
+    implementation 'com.google.android.gms:play-services-safetynet:17.0.1'
+    implementation('com.stanfy:gson-xml-java:0.1.7') {
+        exclude group: 'xmlpull', module: 'xmlpull'
+    }
+
+    //Android support
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.1.0'
+    annotationProcessor 'androidx.lifecycle:lifecycle-compiler:2.1.0'
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation 'androidx.vectordrawable:vectordrawable-animated:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+
+    // Google Maps dependencies
+    implementation 'com.google.android.gms:play-services-base:17.5.0'
+    implementation 'com.google.android.gms:play-services-maps:17.0.0'
+    implementation 'com.google.android.gms:play-services-location:17.1.0'
+    implementation 'com.google.maps.android:android-maps-utils:0.5'
+    implementation 'com.google.android.gms:play-services-measurement-base:18.0.0'
+    implementation 'com.google.android.gms:play-services-gcm:17.0.0'
+    implementation 'com.google.android.gms:play-services-iid:17.0.0'
+    implementation 'com.google.android.gms:play-services-auth:19.0.0'
+    implementation 'com.google.firebase:firebase-auth:19.0.0'
+
+    implementation 'com.google.android.libraries.places:places:2.0.0'
+
+    // Retrofit dependencies
+    implementation 'com.squareup.retrofit2:retrofit:2.6.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.6.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.12.3'
+    implementation 'com.squareup.okhttp3:okhttp:3.12.3'
+    implementation 'com.squareup.okhttp3:okhttp-urlconnection:3.12.1'
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation 'androidx.viewpager:viewpager:1.0.0'
+
+/*    // Chucker for log request
+    debugImplementation "com.github.chuckerteam.chucker:library:3.5.0", {
+        exclude group: 'androidx.constraintlayout'
+    }
+    releaseImplementation "com.github.chuckerteam.chucker:library-no-op:3.5.0", {
+        exclude group: 'androidx.constraintlayout'
+    }*/
+
+    // Kotlin
+    api "androidx.core:core-ktx:1.5.0"
+    api "androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+
+    // Firebase
+    implementation platform('com.google.firebase:firebase-bom:28.2.0')
+
+    //UIComponentsLib
+    implementation("com.santander.globile:uicomponentslib:2.7.2") {
+        exclude group: "com.squareup.retrofit2", module: "retrofit"
+        exclude group: "androidx.constraintlayout", module: "constraintlayout"
+        exclude group: "com.santander.globile.mobisec", module: "securekeyboard"
+    }
+    implementation("com.santander.globile.mobisec:securekeyboard:3.2.0") {
+        exclude group: "androidx.constraintlayout", module: "constraintlayout"
+    }
+
+    implementation 'com.scottyab:rootbeer-lib:0.1.0'
+}

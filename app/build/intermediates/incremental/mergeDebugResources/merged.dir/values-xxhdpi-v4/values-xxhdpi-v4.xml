@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="max_size_toolbar_title">215dp</dimen>
+    <dimen name="tab_badge_long_margin_left">15dp</dimen>
+    <dimen name="tab_badge_long_margin_top">2dp</dimen>
+    <dimen name="tab_badge_long_size_heigth">19dp</dimen>
+    <dimen name="tab_badge_long_size_width">26dp</dimen>
+    <dimen name="tab_badge_margin">10dp</dimen>
+    <dimen name="tab_badge_size">19dp</dimen>
+    <dimen name="tab_badge_small_margin_top">7dp</dimen>
+    <dimen name="tab_badge_small_size">6dp</dimen>
+    <dimen name="tab_badge_stroke_size">5px</dimen>
+    <dimen name="tab_badge_text_size">9sp</dimen>
+</resources>

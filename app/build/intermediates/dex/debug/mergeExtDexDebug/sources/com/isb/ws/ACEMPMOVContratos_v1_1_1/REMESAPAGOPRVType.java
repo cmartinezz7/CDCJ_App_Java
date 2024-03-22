@@ -1,0 +1,31 @@
+package com.isb.ws.ACEMPMOVContratos_v1_1_1;
+
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlType;
+
+@XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(name = "REMESA_PAGO_PRV_Type", propOrder = {"contrato", "numeroderemesa"})
+public class REMESAPAGOPRVType {
+    @XmlElement(name = "CONTRATO", required = true)
+    protected CONTRATOType contrato;
+    @XmlElement(name = "NUMERO_DE_REMESA", required = true)
+    protected String numeroderemesa;
+
+    public CONTRATOType getCONTRATO() {
+        return this.contrato;
+    }
+
+    public void setCONTRATO(CONTRATOType cONTRATOType) {
+        this.contrato = cONTRATOType;
+    }
+
+    public String getNUMERODEREMESA() {
+        return this.numeroderemesa;
+    }
+
+    public void setNUMERODEREMESA(String str) {
+        this.numeroderemesa = str;
+    }
+}

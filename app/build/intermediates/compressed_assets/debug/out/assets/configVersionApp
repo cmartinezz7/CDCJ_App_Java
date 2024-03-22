@@ -1,0 +1,22 @@
+{
+  "android": {
+    "downloadURL": "https://play.google.com/store/apps/details?id=es.santander.justicia",
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "blocking": false,
+    "updateMessage": "Existe una actualización de la APP Santander Justicia, descárgala en el Store"
+  },
+  "ios": {
+    "downloadURL": "url_store",
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "blocking": false,
+    "updateMessage": "Existe una actualización de la APP Santander Justicia, descárgala en el Store"
+  },
+  "locks": {
+    "lockLoginEmpresa": false
+  },
+  "IndAltaFirma": "Para comenzar a utilizar la App de Justicia es necesario que actives tu usuario accediendo previamente a Banca por Internet Empresas",
+  "IndCapturarClave": "Para comenzar a utilizar la App de Justicia es necesario que actives tu usuario accediendo previamente a Banca por Internet Empresas",
+  "AliasDuplicado": "Para comenzar a utilizar la App de Justicia es necesario que actives tu usuario accediendo previamente a Banca por Internet Empresas"
+}

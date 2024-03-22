@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">240958190337-j2gv2di942cfi0hmd5ugtv7ik52010kd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">240958190337</string>
+    <string name="google_api_key" translatable="false">AIzaSyBh0qODL3Bt-GCOcMHQ6Bd5hujtl0bTAjE</string>
+    <string name="google_app_id" translatable="false">1:240958190337:android:a7bd7eff20fdcd50686100</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBh0qODL3Bt-GCOcMHQ6Bd5hujtl0bTAjE</string>
+    <string name="google_storage_bucket" translatable="false">ministerio-de-justica-pre.appspot.com</string>
+    <string name="project_id" translatable="false">ministerio-de-justica-pre</string>
+</resources>

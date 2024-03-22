@@ -1,0 +1,1843 @@
+{
+  "spinnerValues": [
+    {
+      "name": "spnDocumentTypeForLetrados",
+      "values": [
+        {
+          "code": "N",
+          "position": "",
+          "esp_value": "NIF",
+          "eng_value": "NIF"
+        },
+        {
+          "code": "C",
+          "position": "",
+          "esp_value": "NIE",
+          "eng_value": "NIE"
+        },
+        {
+          "code": "D",
+          "position": "",
+          "esp_value": "DNI",
+          "eng_value": "DNI"
+        },
+        {
+          "code": "S",
+          "position": "",
+          "esp_value": "CIF",
+          "eng_value": "CIF"
+        }
+      ]
+    },
+    {
+      "name": "spnDocumentTypeForCompanies",
+      "values": [
+        {
+          "code": "S",
+          "position": "",
+          "esp_value": "CIF",
+          "eng_value": "CIF"
+        },
+        {
+          "code": "N",
+          "position": "",
+          "esp_value": "NIF",
+          "eng_value": "NIF"
+        },
+        {
+          "code": "D",
+          "position": "",
+          "esp_value": "DNI",
+          "eng_value": "DNI"
+        },
+        {
+          "code": "P",
+          "position": "",
+          "esp_value": "Pasaporte",
+          "eng_value": "Passport"
+        },
+        {
+          "code": "C",
+          "position": "",
+          "esp_value": "NIE",
+          "eng_value": "NIE"
+        },
+        {
+          "code": "I",
+          "position": "",
+          "esp_value": "No español",
+          "eng_value": "Not Spanish"
+        }
+      ]
+    },
+    {
+      "name": "spnAuthenticationTypeForPrivates",
+      "values": [
+        {
+          "code": "D",
+          "position": "",
+          "esp_value": "Documento",
+          "eng_value": "Document"
+        },
+        {
+          "code": "U",
+          "position": "",
+          "esp_value": "Usuario",
+          "eng_value": "User"
+        }
+      ]
+    },
+    {
+      "name": "spn_DocumentTypeForPrivates",
+      "values": [
+        {
+          "code": "N",
+          "position": "0",
+          "esp_value": "NIF",
+          "eng_value": "NIF"
+        },
+        {
+          "code": "S",
+          "position": "1",
+          "esp_value": "CIF",
+          "eng_value": "CIF"
+        },
+        {
+          "code": "C",
+          "position": "2",
+          "esp_value": "NIE",
+          "eng_value": "NIE"
+        },
+        {
+          "code": "P",
+          "position": "3",
+          "esp_value": "Pasaporte",
+          "eng_value": "Passport"
+        }
+      ]
+    },
+    {
+      "name": "spnCoins",
+      "values": [
+        {
+          "code": "",
+          "position": "",
+          "esp_value": "Todas",
+          "eng_value": "Todas"
+        },
+        {
+          "code": "DKK",
+          "position": "",
+          "esp_value": "C.DANESA",
+          "eng_value": "C.DANESA"
+        },
+        {
+          "code": "CZK",
+          "position": "",
+          "esp_value": "CORONA CHECA",
+          "eng_value": "CORONA CHECA"
+        },
+        {
+          "code": "NOK",
+          "position": "",
+          "esp_value": "CORONA NORUEGA",
+          "eng_value": "CORONA NORUEGA"
+        },
+        {
+          "code": "SEK",
+          "position": "",
+          "esp_value": "CORONA SUECA",
+          "eng_value": "CORONA SUECA"
+        },
+        {
+          "code": "MAD",
+          "position": "",
+          "esp_value": "DIRHAMS",
+          "eng_value": "DIRHAMS"
+        },
+        {
+          "code": "AUD",
+          "position": "",
+          "esp_value": "DOLAR AUSTRAL.",
+          "eng_value": "DOLAR AUSTRAL."
+        },
+        {
+          "code": "CAD",
+          "position": "",
+          "esp_value": "DOLAR CANADA",
+          "eng_value": "DOLAR CANADA"
+        },
+        {
+          "code": "USD",
+          "position": "",
+          "esp_value": "DOLAR USA",
+          "eng_value": "DOLAR USA"
+        },
+        {
+          "code": "EUR",
+          "position": "",
+          "esp_value": "EURO",
+          "eng_value": "EURO"
+        },
+        {
+          "code": "CHF",
+          "position": "",
+          "esp_value": "FRANCO SUIZO",
+          "eng_value": "FRANCO SUIZO"
+        },
+        {
+          "code": "GBP",
+          "position": "",
+          "esp_value": "LIBRA ESTERLINA",
+          "eng_value": "LIBRA ESTERLINA"
+        },
+        {
+          "code": "ZAR",
+          "position": "",
+          "esp_value": "RAND",
+          "eng_value": "RAND"
+        },
+        {
+          "code": "CNY",
+          "position": "",
+          "esp_value": "RENMIMBIS",
+          "eng_value": "RENMIMBIS"
+        },
+        {
+          "code": "JPY",
+          "position": "",
+          "esp_value": "YEN JAPONES",
+          "eng_value": "YEN JAPONES"
+        }
+      ]
+    },
+    {
+      "name": "spnCaseFileStatus",
+      "values": [
+        {
+          "code": "00",
+          "position": "",
+          "esp_value": "Todos",
+          "eng_value": "Todos"
+        },
+        {
+          "code": "AC",
+          "position": "",
+          "esp_value": "Activo",
+          "eng_value": "Activo"
+        },
+        {
+          "code": "AB",
+          "position": "",
+          "esp_value": "Abierto",
+          "eng_value": "Abierto"
+        },
+        {
+          "code": "OP",
+          "position": "",
+          "esp_value": "Operativo",
+          "eng_value": "Operativo"
+        },
+        {
+          "code": "EJ",
+          "position": "",
+          "esp_value": "Ejecutado",
+          "eng_value": "Ejecutado"
+        },
+        {
+          "code": "CO",
+          "position": "",
+          "esp_value": "Concluido",
+          "eng_value": "Concluido"
+        },
+        {
+          "code": "CA",
+          "position": "",
+          "esp_value": "Cancelado",
+          "eng_value": "Cancelado"
+        },
+        {
+          "code": "CR",
+          "position": "",
+          "esp_value": "Creado",
+          "eng_value": "Creado"
+        },
+        {
+          "code": "TR",
+          "position": "",
+          "esp_value": "Traspasado",
+          "eng_value": "Traspasado"
+        },
+        {
+          "code": "BL",
+          "position": "",
+          "esp_value": "Bloqueado",
+          "eng_value": "Bloqueado"
+        }
+      ]
+    },
+    {
+      "name": "spnAccessRequestReason",
+      "values": [
+        {
+          "code": "01",
+          "position": "",
+          "esp_value": "Nueva representación",
+          "eng_value": "Nueva representación"
+        },
+        {
+          "code": "02",
+          "position": "",
+          "esp_value": "Cambio de representante",
+          "eng_value": "Cambio de representante"
+        },
+        {
+          "code": "03",
+          "position": "",
+          "esp_value": "Baja de representación",
+          "eng_value": "Baja de representación"
+        }
+      ]
+    },
+    {
+      "name": "spnAccessRequestStatus",
+      "values": [
+        {
+          "code": "",
+          "position": "",
+          "esp_value": "Todas las Peticiones",
+          "eng_value": "Todas las Peticiones"
+        },
+        {
+          "code": "AL",
+          "position": "",
+          "esp_value": "Aceptada",
+          "eng_value": "Aceptada"
+        },
+        {
+          "code": "DE",
+          "position": "",
+          "esp_value": "Denegada",
+          "eng_value": "Denegada"
+        },
+        {
+          "code": "PE",
+          "position": "",
+          "esp_value": "Pendiente de Resolución",
+          "eng_value": "Pendiente de Resolución"
+        },
+        {
+          "code": "BA",
+          "position": "",
+          "esp_value": "Baja",
+          "eng_value": "Baja"
+        }
+      ]
+    },
+    {
+      "name": "spnSelectionTypeExpedient",
+      "values": [
+        {
+          "code": "0",
+          "position": "",
+          "esp_value": "Todos",
+          "eng_value": "Todos"
+        },
+        {
+          "code": "2",
+          "position": "",
+          "esp_value": "Expedientes con movimientos en las fechas",
+          "eng_value": "Expedientes con movimientos en las fechas"
+        },
+        {
+          "code": "1",
+          "position": "",
+          "esp_value": "Expedientes sin movimientos en las fechas",
+          "eng_value": "Expedientes sin movimientos en las fechas"
+        }
+      ]
+    },
+    {
+      "name": "spnMotionQuery",
+      "values": [
+        {
+          "code": "",
+          "position": "",
+          "esp_value": "Todos",
+          "eng_value": "Todos"
+        },
+        {
+          "code": "SB",
+          "position": "",
+          "esp_value": "Subastas",
+          "eng_value": "Subastas"
+        },
+        {
+          "code": "IN",
+          "position": "",
+          "esp_value": "Ingresos",
+          "eng_value": "Ingresos"
+        },
+        {
+          "code": "IS",
+          "position": "",
+          "esp_value": "Ingr. para subastas",
+          "eng_value": "Ingr. para subastas"
+        },
+        {
+          "code": "DE",
+          "position": "",
+          "esp_value": "Mtos. de Pago",
+          "eng_value": "Mtos. de Pago"
+        },
+        {
+          "code": "DS",
+          "position": "",
+          "esp_value": "Mtos. de Pago para Subastas",
+          "eng_value": "Mtos. de Pago para Subastas"
+        },
+        {
+          "code": "EM",
+          "position": "",
+          "esp_value": "Trasp./Transf. emitidos",
+          "eng_value": "Trasp./Transf. emitidos"
+        },
+        {
+          "code": "RE",
+          "position": "",
+          "esp_value": "Trasp./Transf. recibidos",
+          "eng_value": "Trasp./Transf. recibidos"
+        },
+        {
+          "code": "55",
+          "position": "",
+          "esp_value": "Transf. al 5555",
+          "eng_value": "Transf. al 5555"
+        },
+        {
+          "code": "77",
+          "position": "",
+          "esp_value": "Transf. al 7777",
+          "eng_value": "Transf. al 7777"
+        },
+        {
+          "code": "RG",
+          "position": "",
+          "esp_value": "Regularizaciones",
+          "eng_value": "Regularizaciones"
+        },
+        {
+          "code": "99",
+          "position": "",
+          "esp_value": "Transf. al 9999",
+          "eng_value": "Transf. al 9999"
+        },
+        {
+          "code": "90",
+          "position": "",
+          "esp_value": "Transf. al 9900",
+          "eng_value": "Transf. al 9900"
+        },
+        {
+          "code": "CD",
+          "position": "",
+          "esp_value": "Caducadas",
+          "eng_value": "Caducadas"
+        },
+        {
+          "code": "AC",
+          "position": "",
+          "esp_value": "Caducadas re-emitidas",
+          "eng_value": "Caducadas re-emitidas"
+        },
+        {
+          "code": "NA",
+          "position": "",
+          "esp_value": "Caducadas no re-emitidas",
+          "eng_value": "Caducadas no re-emitidas"
+        },
+        {
+          "code": "IE",
+          "position": "",
+          "esp_value": "Ingreso Erróneo",
+          "eng_value": "Ingreso Erróneo"
+        },
+        {
+          "code": "EE",
+          "position": "",
+          "esp_value": "Transf. Emitida Ingr. Erróneo",
+          "eng_value": "Transf. Emitida Ingr. Erróneo"
+        },
+        {
+          "code": "RO",
+          "position": "",
+          "esp_value": "Transf. Recibida Ingr. Erróneo",
+          "eng_value": "Transf. Recibida Ingr. Erróneo"
+        },
+        {
+          "code": "DR",
+          "position": "",
+          "esp_value": "Pago Depósito Recurso",
+          "eng_value": "Pago Depósito Recurso"
+        },
+        {
+          "code": "IR",
+          "position": "",
+          "esp_value": "Ingreso Depósito Recurso",
+          "eng_value": "Ingreso Depósito Recurso"
+        },
+        {
+          "code": "RC",
+          "position": "",
+          "esp_value": "Todos recurso",
+          "eng_value": "Todos recurso"
+        }
+      ]
+    },
+    {
+      "name": "spnProvinces",
+      "values": [
+        {
+          "code": "",
+          "position": "1",
+          "esp_value": "TODOS",
+          "eng_value": "TODOS"
+        },
+        {
+          "code": "01",
+          "position": "2",
+          "esp_value": "ALAVA",
+          "eng_value": "ALAVA"
+        },
+        {
+          "code": "02",
+          "position": "3",
+          "esp_value": "ALBACETE",
+          "eng_value": "ALBACETE"
+        },
+        {
+          "code": "03",
+          "position": "4",
+          "esp_value": "ALICANTE",
+          "eng_value": "ALICANTE"
+        },
+        {
+          "code": "04",
+          "position": "5",
+          "esp_value": "ALMERIA",
+          "eng_value": "ALMERIA"
+        },
+        {
+          "code": "33",
+          "position": "6",
+          "esp_value": "ASTURIAS",
+          "eng_value": "ASTURIAS"
+        },
+        {
+          "code": "05",
+          "position": "7",
+          "esp_value": "AVILA",
+          "eng_value": "AVILA"
+        },
+        {
+          "code": "06",
+          "position": "8",
+          "esp_value": "BADAJOZ",
+          "eng_value": "BADAJOZ"
+        },
+        {
+          "code": "07",
+          "position": "9",
+          "esp_value": "BALEARS, ILLES",
+          "eng_value": "BALEARS, ILLES"
+        },
+        {
+          "code": "08",
+          "position": "10",
+          "esp_value": "BARCELONA",
+          "eng_value": "BARCELONA"
+        },
+        {
+          "code": "48",
+          "position": "11",
+          "esp_value": "BIZKAIA",
+          "eng_value": "BIZKAIA"
+        },
+        {
+          "code": "09",
+          "position": "12",
+          "esp_value": "BURGOS",
+          "eng_value": "BURGOS"
+        },
+        {
+          "code": "10",
+          "position": "13",
+          "esp_value": "CACERES",
+          "eng_value": "CACERES"
+        },
+        {
+          "code": "11",
+          "position": "14",
+          "esp_value": "CADIZ",
+          "eng_value": "CADIZ"
+        },
+        {
+          "code": "12",
+          "position": "15",
+          "esp_value": "CASTELLON",
+          "eng_value": "CASTELLON"
+        },
+        {
+          "code": "39",
+          "position": "16",
+          "esp_value": "CANTABRIA",
+          "eng_value": "CANTABRIA"
+        },
+        {
+          "code": "51",
+          "position": "17",
+          "esp_value": "CEUTA",
+          "eng_value": "CEUTA"
+        },
+        {
+          "code": "13",
+          "position": "18",
+          "esp_value": "CIUDAD REAL",
+          "eng_value": "CIUDAD REAL"
+        },
+        {
+          "code": "14",
+          "position": "19",
+          "esp_value": "CORDOBA",
+          "eng_value": "CORDOBA"
+        },
+        {
+          "code": "15",
+          "position": "20",
+          "esp_value": "CORUÑA, A",
+          "eng_value": "CORUÑA, A"
+        },
+        {
+          "code": "16",
+          "position": "21",
+          "esp_value": "CUENCA",
+          "eng_value": "CUENCA"
+        },
+        {
+          "code": "17",
+          "position": "22",
+          "esp_value": "GIRONA",
+          "eng_value": "GIRONA"
+        },
+        {
+          "code": "18",
+          "position": "23",
+          "esp_value": "GRANADA",
+          "eng_value": "GRANADA"
+        },
+        {
+          "code": "19",
+          "position": "24",
+          "esp_value": "GUADALAJARA",
+          "eng_value": "GUADALAJARA"
+        },
+        {
+          "code": "20",
+          "position": "25",
+          "esp_value": "GIPUZKOA",
+          "eng_value": "GIPUZKOA"
+        },
+        {
+          "code": "21",
+          "position": "26",
+          "esp_value": "HUELVA",
+          "eng_value": "HUELVA"
+        },
+        {
+          "code": "22",
+          "position": "27",
+          "esp_value": "HUESCA",
+          "eng_value": "HUESCA"
+        },
+        {
+          "code": "23",
+          "position": "28",
+          "esp_value": "JAEN",
+          "eng_value": "JAEN"
+        },
+        {
+          "code": "24",
+          "position": "29",
+          "esp_value": "LEON",
+          "eng_value": "LEON"
+        },
+        {
+          "code": "25",
+          "position": "30",
+          "esp_value": "LLEIDA",
+          "eng_value": "LLEIDA"
+        },
+        {
+          "code": "27",
+          "position": "31",
+          "esp_value": "LUGO",
+          "eng_value": "LUGO"
+        },
+        {
+          "code": "28",
+          "position": "32",
+          "esp_value": "MADRID",
+          "eng_value": "MADRID"
+        },
+        {
+          "code": "29",
+          "position": "33",
+          "esp_value": "MALAGA",
+          "eng_value": "MALAGA"
+        },
+        {
+          "code": "30",
+          "position": "34",
+          "esp_value": "MURCIA",
+          "eng_value": "MURCIA"
+        },
+        {
+          "code": "31",
+          "position": "35",
+          "esp_value": "NAVARRA",
+          "eng_value": "NAVARRA"
+        },
+        {
+          "code": "32",
+          "position": "36",
+          "esp_value": "OURENSE",
+          "eng_value": "OURENSE"
+        },
+        {
+          "code": "34",
+          "position": "37",
+          "esp_value": "PALENCIA",
+          "eng_value": "PALENCIA"
+        },
+        {
+          "code": "35",
+          "position": "38",
+          "esp_value": "PALMAS, LAS",
+          "eng_value": "PALMAS, LAS"
+        },
+        {
+          "code": "36",
+          "position": "39",
+          "esp_value": "PONTEVEDRA",
+          "eng_value": "PONTEVEDRA"
+        },
+        {
+          "code": "26",
+          "position": "40",
+          "esp_value": "RIOJA, LA",
+          "eng_value": "RIOJA, LA"
+        },
+        {
+          "code": "37",
+          "position": "41",
+          "esp_value": "SALAMANCA",
+          "eng_value": "SALAMANCA"
+        },
+        {
+          "code": "38",
+          "position": "42",
+          "esp_value": "SANTA CRUZ DE TENERIFE",
+          "eng_value": "SANTA CRUZ DE TENERIFE"
+        },
+        {
+          "code": "40",
+          "position": "43",
+          "esp_value": "SEGOVIA",
+          "eng_value": "SEGOVIA"
+        },
+        {
+          "code": "41",
+          "position": "44",
+          "esp_value": "SEVILLA",
+          "eng_value": "SEVILLA"
+        },
+        {
+          "code": "42",
+          "position": "45",
+          "esp_value": "SORIA",
+          "eng_value": "SORIA"
+        },
+        {
+          "code": "43",
+          "position": "46",
+          "esp_value": "TARRAGONA",
+          "eng_value": "TARRAGONA"
+        },
+        {
+          "code": "44",
+          "position": "47",
+          "esp_value": "TERUEL",
+          "eng_value": "TERUEL"
+        },
+        {
+          "code": "45",
+          "position": "48",
+          "esp_value": "TOLEDO",
+          "eng_value": "TOLEDO"
+        },
+        {
+          "code": "46",
+          "position": "49",
+          "esp_value": "VALENCIA",
+          "eng_value": "VALENCIA"
+        },
+        {
+          "code": "47",
+          "position": "50",
+          "esp_value": "VALLADOLID",
+          "eng_value": "VALLADOLID"
+        },
+        {
+          "code": "49",
+          "position": "51",
+          "esp_value": "ZAMORA",
+          "eng_value": "ZAMORA"
+        },
+        {
+          "code": "50",
+          "position": "52",
+          "esp_value": "ZARAGOZA",
+          "eng_value": "ZARAGOZA"
+        },
+        {
+          "code": "52",
+          "position": "53",
+          "esp_value": "MELILLA",
+          "eng_value": "MELILLA"
+        }
+      ]
+    },
+    {
+      "name": "spnJudicialEnv",
+      "values": [
+        {
+          "code": "TO",
+          "position": "",
+          "esp_value": "TODOS",
+          "eng_value": "TODOS"
+        },
+        {
+          "code": "AN",
+          "position": "",
+          "esp_value": "AUD. NACIONAL CONTEC.ADM",
+          "eng_value": "AUD. NACIONAL CONTEC.ADM"
+        },
+        {
+          "code": "NP",
+          "position": "",
+          "esp_value": "AUD. NACIONAL PENAL",
+          "eng_value": "AUD. NACIONAL PENAL"
+        },
+        {
+          "code": "NS",
+          "position": "",
+          "esp_value": "AUD. NACIONAL SOCIAL",
+          "eng_value": "AUD. NACIONAL SOCIAL"
+        },
+        {
+          "code": "PC",
+          "position": "",
+          "esp_value": "AUD. PROVINCIAL CIVIL",
+          "eng_value": "AUD. PROVINCIAL CIVIL"
+        },
+        {
+          "code": "AP",
+          "position": "",
+          "esp_value": "AUD. PROVINCIAL CIVIL-PENAL",
+          "eng_value": "AUD. PROVINCIAL CIVIL-PENAL"
+        },
+        {
+          "code": "PP",
+          "position": "",
+          "esp_value": "AUD. PROVINCIAL PENAL",
+          "eng_value": "AUD. PROVINCIAL PENAL"
+        },
+        {
+          "code": "FM",
+          "position": "",
+          "esp_value": "FISCALIA DIL.INVESTIGACION",
+          "eng_value": "FISCALIA DIL.INVESTIGACION"
+        },
+        {
+          "code": "VM",
+          "position": "",
+          "esp_value": "JDO. VIOLENCIA SOBRE LA MUJER",
+          "eng_value": "JDO. VIOLENCIA SOBRE LA MUJER"
+        },
+        {
+          "code": "VP",
+          "position": "",
+          "esp_value": "JDO.VIGILANCIA PENITENCIARIA",
+          "eng_value": "JDO.VIGILANCIA PENITENCIARIA"
+        },
+        {
+          "code": "CC",
+          "position": "",
+          "esp_value": "JUZGADO CENTRAL CONT. ADMITIVO",
+          "eng_value": "JUZGADO CENTRAL CONT. ADMITIVO"
+        },
+        {
+          "code": "CP",
+          "position": "",
+          "esp_value": "JUZGADO CENTRAL DE LO PENAL",
+          "eng_value": "JUZGADO CENTRAL DE LO PENAL"
+        },
+        {
+          "code": "CM",
+          "position": "",
+          "esp_value": "JUZGADO CENTRAL DE MENORES",
+          "eng_value": "JUZGADO CENTRAL DE MENORES"
+        },
+        {
+          "code": "JC",
+          "position": "",
+          "esp_value": "JUZGADO CENTRAL INSTRUCCION",
+          "eng_value": "JUZGADO CENTRAL INSTRUCCION"
+        },
+        {
+          "code": "CA",
+          "position": "",
+          "esp_value": "JUZGADO CONTENCIOSO ADMTIVO.",
+          "eng_value": "JUZGADO CONTENCIOSO ADMTIVO."
+        },
+        {
+          "code": "JD",
+          "position": "",
+          "esp_value": "JUZGADO DE DISTRITO",
+          "eng_value": "JUZGADO DE DISTRITO"
+        },
+        {
+          "code": "JG",
+          "position": "",
+          "esp_value": "JUZGADO DE GUARDIA",
+          "eng_value": "JUZGADO DE GUARDIA"
+        },
+        {
+          "code": "JI",
+          "position": "",
+          "esp_value": "JUZGADO DE INSTRUCCION",
+          "eng_value": "JUZGADO DE INSTRUCCION"
+        },
+        {
+          "code": "JM",
+          "position": "",
+          "esp_value": "JUZGADO DE MENORES",
+          "eng_value": "JUZGADO DE MENORES"
+        },
+        {
+          "code": "PZ",
+          "position": "",
+          "esp_value": "JUZGADO DE PAZ",
+          "eng_value": "JUZGADO DE PAZ"
+        },
+        {
+          "code": "DE",
+          "position": "",
+          "esp_value": "JUZGADO DECANO",
+          "eng_value": "JUZGADO DECANO"
+        },
+        {
+          "code": "EP",
+          "position": "",
+          "esp_value": "JUZGADO EJECUTORIA PENAL",
+          "eng_value": "JUZGADO EJECUTORIA PENAL"
+        },
+        {
+          "code": "ME",
+          "position": "",
+          "esp_value": "JUZGADO MERCANTIL",
+          "eng_value": "JUZGADO MERCANTIL"
+        },
+        {
+          "code": "PE",
+          "position": "",
+          "esp_value": "JUZGADO PENAL",
+          "eng_value": "JUZGADO PENAL"
+        },
+        {
+          "code": "JS",
+          "position": "",
+          "esp_value": "JUZGADO SOCIAL",
+          "eng_value": "JUZGADO SOCIAL"
+        },
+        {
+          "code": "PI",
+          "position": "",
+          "esp_value": "JUZGADO 1 INST E INSTRUCC.",
+          "eng_value": "JUZGADO 1 INST E INSTRUCC."
+        },
+        {
+          "code": "JP",
+          "position": "",
+          "esp_value": "JUZGADO 1 INSTANCIA",
+          "eng_value": "JUZGADO 1 INSTANCIA"
+        },
+        {
+          "code": "MJ",
+          "position": "",
+          "esp_value": "MINISTERIO DE JUSTICIA",
+          "eng_value": "MINISTERIO DE JUSTICIA"
+        },
+        {
+          "code": "OT",
+          "position": "",
+          "esp_value": "OTROS",
+          "eng_value": "OTROS"
+        },
+        {
+          "code": "TP",
+          "position": "",
+          "esp_value": "PAGOS TESORO PUBLICO",
+          "eng_value": "PAGOS TESORO PUBLICO"
+        },
+        {
+          "code": "RC",
+          "position": "",
+          "esp_value": "REGISTRO CIVIL",
+          "eng_value": "REGISTRO CIVIL"
+        },
+        {
+          "code": "SM",
+          "position": "",
+          "esp_value": "SECCION MENORES FISCALIA",
+          "eng_value": "SECCION MENORES FISCALIA"
+        },
+        {
+          "code": "SG",
+          "position": "",
+          "esp_value": "SECRETARIA DE GOB.-TRIBUNALES",
+          "eng_value": "SECRETARIA DE GOB.-TRIBUNALES"
+        },
+        {
+          "code": "SA",
+          "position": "",
+          "esp_value": "SERV.COMUN ACTOS PROCES. EXTE.",
+          "eng_value": "SERV.COMUN ACTOS PROCES. EXTE."
+        },
+        {
+          "code": "SC",
+          "position": "",
+          "esp_value": "SERVICIO COMUN EJECUCIONES",
+          "eng_value": "SERVICIO COMUN EJECUCIONES"
+        },
+        {
+          "code": "SE",
+          "position": "",
+          "esp_value": "SERVICIO COMUN GENERAL",
+          "eng_value": "SERVICIO COMUN GENERAL"
+        },
+        {
+          "code": "TC",
+          "position": "",
+          "esp_value": "TRIB. SUPREMO CIVIL",
+          "eng_value": "TRIB. SUPREMO CIVIL"
+        },
+        {
+          "code": "TT",
+          "position": "",
+          "esp_value": "TRIB. SUPREMO CONTEN.",
+          "eng_value": "TRIB. SUPREMO CONTEN."
+        },
+        {
+          "code": "TM",
+          "position": "",
+          "esp_value": "TRIB. SUPREMO MILITAR",
+          "eng_value": "TRIB. SUPREMO MILITAR"
+        },
+        {
+          "code": "TE",
+          "position": "",
+          "esp_value": "TRIB. SUPREMO PENAL",
+          "eng_value": "TRIB. SUPREMO PENAL"
+        },
+        {
+          "code": "TS",
+          "position": "",
+          "esp_value": "TRIB. SUPREMO SOCIAL",
+          "eng_value": "TRIB. SUPREMO SOCIAL"
+        },
+        {
+          "code": "JT",
+          "position": "",
+          "esp_value": "TRIB. Y JDO. MILITAR",
+          "eng_value": "TRIB. Y JDO. MILITAR"
+        },
+        {
+          "code": "SI",
+          "position": "",
+          "esp_value": "TRIB.SUP.JUSTICIA.SALA CIVIL",
+          "eng_value": "TRIB.SUP.JUSTICIA.SALA CIVIL"
+        },
+        {
+          "code": "SP",
+          "position": "",
+          "esp_value": "TRIB.SUP.JUSTICIA.SALA PENAL",
+          "eng_value": "TRIB.SUP.JUSTICIA.SALA PENAL"
+        },
+        {
+          "code": "SS",
+          "position": "",
+          "esp_value": "TRIB.SUP.JUSTICIA.SALA SOCIAL",
+          "eng_value": "TRIB.SUP.JUSTICIA.SALA SOCIAL"
+        },
+        {
+          "code": "SJ",
+          "position": "",
+          "esp_value": "TRIB.SUP.JUST.SALA CIVIL-PENAL",
+          "eng_value": "TRIB.SUP.JUST.SALA CIVIL-PENAL"
+        },
+        {
+          "code": "ST",
+          "position": "",
+          "esp_value": "TRIB.SUP.JUST.SALA CONT.ADMIN.",
+          "eng_value": "TRIB.SUP.JUST.SALA CONT.ADMIN."
+        },
+        {
+          "code": "CU",
+          "position": "",
+          "esp_value": "TRIBUNAL DE CUENTAS",
+          "eng_value": "TRIBUNAL DE CUENTAS"
+        },
+        {
+          "code": "SO",
+          "position": "",
+          "esp_value": "UNIDAD DE SUBASTAS",
+          "eng_value": "UNIDAD DE SUBASTAS"
+        }
+      ]
+    },
+    {
+      "name": "spnOperationType",
+      "values": [
+        {
+          "code": "",
+          "position": "",
+          "esp_value": "TODOS",
+          "eng_value": "TODOS"
+        },
+        {
+          "code": "CD",
+          "position": "",
+          "esp_value": "CADUCADAS",
+          "eng_value": "CADUCADAS"
+        },
+        {
+          "code": "AC",
+          "position": "",
+          "esp_value": "CADUCADAS RE-EMITIDAS",
+          "eng_value": "CADUCADAS RE-EMITIDAS"
+        },
+        {
+          "code": "NA",
+          "position": "",
+          "esp_value": "CADUCADAS NO RE-EMITIDAS",
+          "eng_value": "CADUCADAS NO RE-EMITIDAS"
+        },
+        {
+          "code": "IE",
+          "position": "",
+          "esp_value": "INGRESO ERRONEO",
+          "eng_value": "INGRESO ERRONEO"
+        },
+        {
+          "code": "AN",
+          "position": "",
+          "esp_value": "ANULACION",
+          "eng_value": "ANULACION"
+        },
+        {
+          "code": "BL",
+          "position": "",
+          "esp_value": "BLOQUEO",
+          "eng_value": "BLOQUEO"
+        },
+        {
+          "code": "CA",
+          "position": "",
+          "esp_value": "CANCELACION",
+          "eng_value": "CANCELACION"
+        },
+        {
+          "code": "DB",
+          "position": "",
+          "esp_value": "DESBLOQUEO",
+          "eng_value": "DESBLOQUEO"
+        },
+        {
+          "code": "DE",
+          "position": "",
+          "esp_value": "MANDAMIENTO DE PAGO",
+          "eng_value": "MANDAMIENTO DE PAGO"
+        },
+        {
+          "code": "DS",
+          "position": "",
+          "esp_value": "MTO.DE PAGO PARA SUBASTA",
+          "eng_value": "MTO.DE PAGO PARA SUBASTA"
+        },
+        {
+          "code": "IN",
+          "position": "",
+          "esp_value": "INGRESO",
+          "eng_value": "INGRESO"
+        },
+        {
+          "code": "IS",
+          "position": "",
+          "esp_value": "INGRESO PARA SUBASTA",
+          "eng_value": "INGRESO PARA SUBASTA"
+        },
+        {
+          "code": "PE",
+          "position": "",
+          "esp_value": "REGULARIZACION TRASP. EMITIDO",
+          "eng_value": "REGULARIZACION TRASP. EMITIDO"
+        },
+        {
+          "code": "PR",
+          "position": "",
+          "esp_value": "REGULARIZACION TRASP. RECIBIDO",
+          "eng_value": "REGULARIZACION TRASP. RECIBIDO"
+        },
+        {
+          "code": "RA",
+          "position": "",
+          "esp_value": "REACTIVACION",
+          "eng_value": "REACTIVACION"
+        },
+        {
+          "code": "RD",
+          "position": "",
+          "esp_value": "REGULARIZACION MTO.DE PAGO",
+          "eng_value": "REGULARIZACION MTO.DE PAGO"
+        },
+        {
+          "code": "RE",
+          "position": "",
+          "esp_value": "REGULARIZACION: TRANS. EMITIDA",
+          "eng_value": "REGULARIZACION: TRANS. EMITIDA"
+        },
+        {
+          "code": "RI",
+          "position": "",
+          "esp_value": "REGULARIZACION INGRESO",
+          "eng_value": "REGULARIZACION INGRESO"
+        },
+        {
+          "code": "RR",
+          "position": "",
+          "esp_value": "REGULARIZACION: TRANS.RECIBIDA",
+          "eng_value": "REGULARIZACION: TRANS.RECIBIDA"
+        },
+        {
+          "code": "SD",
+          "position": "",
+          "esp_value": "REGULARIZACION PAGO SUBASTA",
+          "eng_value": "REGULARIZACION PAGO SUBASTA"
+        },
+        {
+          "code": "SI",
+          "position": "",
+          "esp_value": "REGULARIZACION INGRESO SUBASTA",
+          "eng_value": "REGULARIZACION INGRESO SUBASTA"
+        },
+        {
+          "code": "TE",
+          "position": "",
+          "esp_value": "TRASPASO EMITIDO",
+          "eng_value": "TRASPASO EMITIDO"
+        },
+        {
+          "code": "TR",
+          "position": "",
+          "esp_value": "TRASPASO RECIBIDO",
+          "eng_value": "TRASPASO RECIBIDO"
+        },
+        {
+          "code": "TT",
+          "position": "",
+          "esp_value": "TRASPASO AL TESORO PUBLICO",
+          "eng_value": "TRASPASO AL TESORO PUBLICO"
+        },
+        {
+          "code": "XE",
+          "position": "",
+          "esp_value": "TRANSFERENCIA EMITIDA",
+          "eng_value": "TRANSFERENCIA EMITIDA"
+        },
+        {
+          "code": "XR",
+          "position": "",
+          "esp_value": "TRANSFERENCIA RECIBIDA",
+          "eng_value": "TRANSFERENCIA RECIBIDA"
+        },
+        {
+          "code": "PP",
+          "position": "",
+          "esp_value": "PAGOS PERIODICOS",
+          "eng_value": "PAGOS PERIODICOS"
+        },
+        {
+          "code": "EE",
+          "position": "",
+          "esp_value": "TRANSF. EMITIDA INGR. ERRONEO",
+          "eng_value": "TRANSF. EMITIDA INGR. ERRONEO"
+        },
+        {
+          "code": "OR",
+          "position": "",
+          "esp_value": "TRANSF. RECIBIDA INGR. ERRONEO",
+          "eng_value": "TRANSF. RECIBIDA INGR. ERRONEO"
+        }
+      ]
+    },
+    {
+      "name": "spnCargosLetrados",
+      "values": [
+        {
+          "code": "FC",
+          "position": "",
+          "esp_value": "FUNCIONARIO DE SECRETARÍA DE CORDINACIÓN",
+          "eng_value": "FUNCIONARIO DE SECRETARÍA DE CORDINACIÓN"
+        },
+        {
+          "code": "FG",
+          "position": "",
+          "esp_value": "FUNCIONARIO DE SECRETARÍA DE GOBIERNO",
+          "eng_value": "FUNCIONARIO DE SECRETARÍA DE GOBIERNO"
+        },
+        {
+          "code": "AJ",
+          "position": "",
+          "esp_value": "ADMINISTRADOR MINISTERIO",
+          "eng_value": "ADMINISTRADOR MINISTERIO"
+        },
+        {
+          "code": "CO",
+          "position": "",
+          "esp_value": "CONSULTAS",
+          "eng_value": "CONSULTAS"
+        },
+        {
+          "code": "FM",
+          "position": "",
+          "esp_value": "FISCAL",
+          "eng_value": "FISCAL"
+        },
+        {
+          "code": "JP",
+          "position": "",
+          "esp_value": "JUZGADO DE PAZ",
+          "eng_value": "JUZGADO DE PAZ"
+        },
+        {
+          "code": "JT",
+          "position": "",
+          "esp_value": "JUEZ TOGADO",
+          "eng_value": "JUEZ TOGADO"
+        },
+        {
+          "code": "JU",
+          "position": "",
+          "esp_value": "JUEZ",
+          "eng_value": "JUEZ"
+        },
+        {
+          "code": "OF",
+          "position": "",
+          "esp_value": "FUNCIONARIO ADMON. JUSTICIA",
+          "eng_value": "FUNCIONARIO ADMON. JUSTICIA"
+        },
+        {
+          "code": "OH",
+          "position": "",
+          "esp_value": "FUNCIONARIO ADMON JUST. ESPEC.",
+          "eng_value": "FUNCIONARIO ADMON JUST. ESPEC."
+        },
+        {
+          "code": "PT",
+          "position": "",
+          "esp_value": "PRESIDENTE TRIBUNAL",
+          "eng_value": "PRESIDENTE TRIBUNAL"
+        },
+        {
+          "code": "SA",
+          "position": "",
+          "esp_value": "SEC. DE GOBIERNO AUD.NACIONAL",
+          "eng_value": "SEC. DE GOBIERNO AUD.NACIONAL"
+        },
+        {
+          "code": "SC",
+          "position": "",
+          "esp_value": "SECRETARIO COORDINADOR",
+          "eng_value": "SECRETARIO COORDINADOR"
+        },
+        {
+          "code": "SE",
+          "position": "",
+          "esp_value": "LETRADO DE LA ADMINISTRACIÓN DE JUSTICIA",
+          "eng_value": "LETRADO DE LA ADMINISTRACIÓN DE JUSTICIA"
+        },
+        {
+          "code": "SG",
+          "position": "",
+          "esp_value": "SEC.GOBIERNO TRIB.SUP.JUSTICIA",
+          "eng_value": "SEC.GOBIERNO TRIB.SUP.JUSTICIA"
+        },
+        {
+          "code": "SR",
+          "position": "",
+          "esp_value": "SECRETARIO RELATOR",
+          "eng_value": "SECRETARIO RELATOR"
+        },
+        {
+          "code": "ST",
+          "position": "",
+          "esp_value": "SEC. DE GOBIERNO TRIB.SUPREMO",
+          "eng_value": "SEC. DE GOBIERNO TRIB.SUPREMO"
+        },
+        {
+          "code": "CM",
+          "position": "",
+          "esp_value": "CONSULTAS MJU",
+          "eng_value": "CONSULTAS MJU"
+        },
+        {
+          "code": "CH",
+          "position": "",
+          "esp_value": "CONSULTAS HACIENDA",
+          "eng_value": "CONSULTAS HACIENDA"
+        }
+      ]
+    },
+    {
+      "name": "spnTipoEmbargo",
+      "values": [
+        {
+          "code": "00",
+          "position": "",
+          "esp_value": "TODOS",
+          "eng_value": "TODOS"
+        },
+        {
+          "code": "AEAT",
+          "position": "",
+          "esp_value": "AEAT",
+          "eng_value": "AEAT"
+        },
+        {
+          "code": "ECCV",
+          "position": "",
+          "esp_value": "ECCV",
+          "eng_value": "ECCV"
+        }
+      ]
+    },
+    {
+      "name": "spnEstadoEmbargo",
+      "values": [
+        {
+          "code": "00",
+          "position": "",
+          "esp_value": "TODOS",
+          "eng_value": "TODOS"
+        },
+        {
+          "code": "FI",
+          "position": "",
+          "esp_value": "Finalizado",
+          "eng_value": "Finalizado"
+        },
+        {
+          "code": "BA",
+          "position": "",
+          "esp_value": "BAJA",
+          "eng_value": "BAJA"
+        },
+        {
+          "code": "SE",
+          "position": "",
+          "esp_value": "Sin Embargar",
+          "eng_value": "Sin Embargar"
+        },
+        {
+          "code": "FR",
+          "position": "",
+          "esp_value": "Fin Reexpedición Automática",
+          "eng_value": "Fin Reexpedición Automática"
+        },
+        {
+          "code": "EN",
+          "position": "",
+          "esp_value": "Enviado",
+          "eng_value": "Enviado"
+        },
+        {
+          "code": "RX",
+          "position": "",
+          "esp_value": "Reexpedido",
+          "eng_value": "Reexpedido"
+        },
+        {
+          "code": "RA",
+          "position": "",
+          "esp_value": "Reexpedición Automática",
+          "eng_value": "Reexpedición Automática"
+        },
+        {
+          "code": "RE",
+          "position": "",
+          "esp_value": "Realizado",
+          "eng_value": "Realizado"
+        },
+        {
+          "code": "PA",
+          "position": "",
+          "esp_value": "Pagado",
+          "eng_value": "Pagado"
+        },
+        {
+          "code": "PP",
+          "position": "",
+          "esp_value": "Pagado Parcial",
+          "eng_value": "Pagado Parcial"
+        },
+        {
+          "code": "PR",
+          "position": "",
+          "esp_value": "Pagado Parcial Reexpedido",
+          "eng_value": "Pagado Parcial Reexpedido"
+        },
+        {
+          "code": "EE",
+          "position": "",
+          "esp_value": "En Error",
+          "eng_value": "En Error"
+        },
+        {
+          "code": "ER",
+          "position": "",
+          "esp_value": "Error en Envío",
+          "eng_value": "Error en Envío"
+        },
+        {
+          "code": "PE",
+          "position": "",
+          "esp_value": "Pendiente de Envío",
+          "eng_value": "Pendiente de Envío"
+        }
+      ]
+    }
+  ],
+  "webServices": [
+    {
+      "name": "wsLoginLA",
+      "settings": [
+        {
+          "environment": "MOCK",
+          "url": "http://mocks.cemobile.eu/justicia/profesionales",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "CERT",
+          "url": "http://desextranet.isban.dev.corp/SCH_EMPMOV_CONTRATOS_ENS/ws/BAMOBI_WS_Def_Listener",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PRE",
+          "url": "https://movilidadsei.santander.pre.corp/SCH_EMPMOV_CONTRATOS_ENS/ws/BAMOBI_WS_Def_Listener",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PROD",
+          "url": "https://santanderempresas.mobi/SCH_EMPMOV_CONTRATOS_ENS/ws/BAMOBI_WS_Def_Listener",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        }
+      ]
+    },
+    {
+      "name": "wsLoginLAUnico",
+      "settings": [
+      {
+                "environment": "MOCK",
+                "url": "http://mocks.cemobile.eu/justicia/profesionales",
+                "connectionTimeout": 10000,
+                "readTimeout": 10000
+              },
+              {
+                "environment": "CERT",
+                "url": "https://desextranet.isban.dev.corp/",
+                "connectionTimeout": 10000,
+                "readTimeout": 10000
+              },
+              {
+                "environment": "PRE",
+                "url": "https://movilidadsei.santander.pre.corp/",
+                "connectionTimeout": 10000,
+                "readTimeout": 10000
+              },
+        {
+          "environment": "PROD",
+          "url": "https://santanderempresas.mobi/",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        }
+      ]
+    },
+    {
+      "name": "wsAccessRequestLS",
+      "settings": [
+        {
+          "environment": "MOCK",
+          "url": "http://mocks.cemobile.eu/justicia/profesionales",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "CERT",
+          "url": "http://juzwsj.santander.dev.corp/cdcj-wssupernet-mobile/WSSupernetMobile",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PRE",
+          "url": "https://juzgadosmobile.santander.pre.corp/cdcj-wssupernet-mobile/WSSupernetMobile",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PROD",
+          "url": "https://www.santanderjusticia.mobi/cdcj-wssupernet-mobile/WSSupernetMobile",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        }
+      ]
+    },
+    {
+      "name": "wsGetProfessionalsTokenSSO",
+      "settings": [
+        {
+          "environment": "MOCK",
+          "url": "http://mocks.cemobile.eu/justicia/profesionales",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "CERT",
+          "url": "http://juzwsj.santander.dev.corp/cdcj-wssupernet-mobile/WSSupernetMobileTokenSSO",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PRE",
+          "url": "https://juzgadosmobile.santander.pre.corp/cdcj-wssupernet-mobile/WSSupernetMobileTokenSSO",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PROD",
+          "url": "https://www.santanderjusticia.mobi/cdcj-wssupernet-mobile/WSSupernetMobileTokenSSO",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        }
+      ]
+    },
+    {
+      "name": "wsLoginAlias",
+      "settings": [
+        {
+          "environment": "MOCK",
+          "url": "http://mocks.cemobile.eu/justicia/profesionales",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "CERT",
+          "url": "http://desextranet.isban.dev.corp/SANMOV_IPAD_NSeg_ENS/ws/SANMOV_Def_Listener",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PRE",
+          "url": "https://movilidad.santander.pre.corp/SANMOV_IPAD_NSeg_ENS/ws/SANMOV_Def_Listener",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PROD",
+          "url": "https://www.bsan.mobi/SANMOV_IPAD_NSeg_ENS/ws/SANMOV_Def_Listener",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        }
+      ]
+    },
+    {
+      "name": "wsJuzgadosMobileLogin",
+      "settings": [
+        {
+          "environment": "MOCK",
+          "url": "http://mocks.cemobile.eu/justicia/letrados",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "CERT",
+          "url": "http://juzgadosinter.santander.dev.corp/cdcj-wsjuzgados-mobile/WSJuzgadosMobileLogin",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PRE",
+          "url": "https://juzgadosmobile.santander.pre.corp/cdcj-wsjuzgados-mobile/WSJuzgadosMobileLogin",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PROD",
+          "url": "https://www.santanderjusticia.mobi/cdcj-wsjuzgados-mobile/WSJuzgadosMobileLogin",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        }
+      ]
+    },
+    {
+      "name": "wsJuzgadosMobile",
+      "settings": [
+        {
+          "environment": "MOCK",
+          "url": "http://mocks.cemobile.eu/justicia/letrados",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "CERT",
+          "url": "http://juzgadosinter.santander.dev.corp/cdcj-wsjuzgados-mobile/WSJuzgadosMobile",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PRE",
+          "url": "https://juzgadosmobile.santander.pre.corp/cdcj-wsjuzgados-mobile/WSJuzgadosMobile",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PROD",
+          "url": "https://www.santanderjusticia.mobi/cdcj-wsjuzgados-mobile/WSJuzgadosMobile",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        }
+      ]
+    },
+    {
+      "name": "wsOnlineParameters",
+      "settings": [
+        {
+          "environment": "MOCK",
+          "url": "http://pongodes.bsch:3105/",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "CERT",
+          "url": "http://pongodes.bsch:3105/",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PRE",
+          "url": "http://pongodes.bsch:3105/",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        },
+        {
+          "environment": "PROD",
+          "url": "https://microsite.bancosantander.es/",
+          "connectionTimeout": 10000,
+          "readTimeout": 10000
+        }
+      ]
+    }
+  ],
+  "ayuda": {
+    "twitterURL": "https://twitter.com/santander_es",
+    "facebookURL": "https://www.facebook.com/bancosantander/",
+    "pInfo": {
+      "supernet": {
+        "superlinea1": "915 123 123",
+        "superlinea2": "+34 915 123 123",
+        "tarjeta1": "902 11 44 00",
+        "tarjeta2": "900 81 13 81"
+      },
+      "select": {
+        "superlinea1": "915 123 123",
+        "superlinea2": "+34 915 123 123",
+        "tarjeta1": "902 11 44 00",
+        "tarjeta2": "900 81 13 81"
+      },
+      "retail": {
+        "superlinea1": "915 123 123",
+        "superlinea2": "+34 915 123 123",
+        "tarjeta1": "900 81 13 81",
+        "tarjeta2": "+34 91 276 99 21"
+      },
+      "pb": {
+        "superlinea1": "+34 915 123 123",
+        "superlinea2": "",
+        "tarjeta1": "900 81 13 81",
+        "tarjeta2": ""
+      },
+      "letrados": {
+        "superlinea1": "902 100 470",
+        "superlinea2": "902 999 724",
+        "tarjeta1": "",
+        "tarjeta2": ""
+      }
+    }
+  },
+  "videoLogin": {
+    "estaciones": {
+      "primavera": "21_3-20_6",
+      "verano": "21_6-22_9",
+      "otono": "23_9-21_12",
+      "invierno": "22_12-20_3"
+    },
+    "horarios": {
+      "dias": "7-12",
+      "tardes": "13-18",
+      "noches": "0-7;19-24"
+    }
+  },
+  "tealium": [
+    {
+      "environment": "MOCK",
+      "label": "dev"
+    },
+    {
+      "environment": "CERT",
+      "label": "dev"
+    },
+    {
+      "environment": "PRE",
+      "label": "qa"
+    },
+    {
+      "environment": "PROD",
+      "label": "prod"
+    }
+  ]
+}

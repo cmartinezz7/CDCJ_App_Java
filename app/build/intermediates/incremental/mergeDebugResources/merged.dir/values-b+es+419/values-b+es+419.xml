@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificación nueva</item>
+    <item quantity="other">%d notificaciones nuevas</item>
+  </plurals>
+    <string name="bl_24_hours">24h</string>
+    <string name="bl_accessibility">Accesibilidad</string>
+    <string name="bl_accessibility_handicaped">Accesibilidad silla de ruedas</string>
+    <string name="bl_additional_services">Servicios adicionales</string>
+    <string name="bl_aditional_services_filters">Servicios adicionales</string>
+    <string name="bl_apply_filter">Aplicar filtros</string>
+    <string name="bl_atm">Cajero</string>
+    <string name="bl_audio_guidance">Audioguía</string>
+    <string name="bl_bill_payments">Pagos de facturas</string>
+    <string name="bl_braches_and_atms">Sucursales y cajeros</string>
+    <string name="bl_branch">Sucursal</string>
+    <string name="bl_branchInfoATM">Cajero</string>
+    <string name="bl_branchInfoBranch">Oficina</string>
+    <string name="bl_branchInfoCorresponsales">Corresponsal</string>
+    <string name="bl_call">Llamar</string>
+    <string name="bl_cancel">Cancelar</string>
+    <string name="bl_card_issuer">Emisor de tarjetas instantáneas</string>
+    <string name="bl_clear_filter">Eliminar todos</string>
+    <string name="bl_closed">Cerrado</string>
+    <string name="bl_closest_branch">Resultado más cercano</string>
+    <string name="bl_closing_in">Cierra en</string>
+    <string name="bl_closing_in_closed">Cerrado</string>
+    <string name="bl_closing_in_open">Actualmente abierto</string>
+    <string name="bl_companies">Sucursal Empresas</string>
+    <string name="bl_contactless">Contactless</string>
+    <string name="bl_coworking_spaces">Espacios de trabajo</string>
+    <string name="bl_coworking_spaces_filters">Espacios de trabajo</string>
+    <string name="bl_deposit_money">Ingresar dinero</string>
+    <string name="bl_drive_thru">Drive thru</string>
+    <string name="bl_english_spoken">Se habla inglés</string>
+    <string name="bl_facilities">Instalaciones</string>
+    <string name="bl_fees_basic_clients">Comisión %1$s</string>
+    <string name="bl_fees_basic_no_clients">Clientes: %1$s</string>
+    <string name="bl_fees_no_client">No clientes: %1$s</string>
+    <string name="bl_fees_no_fee">Sin comisión</string>
+    <string name="bl_fees_santander">Clientes Santander: %1$s</string>
+    <string name="bl_fees_select">Clientes Select: %1$s</string>
+    <string name="bl_fees_title">Comisiones</string>
+    <string name="bl_filter">Filtro</string>
+    <string name="bl_filter_title">Filtros</string>
+    <string name="bl_filters"><u>Filtros</u></string>
+    <string name="bl_financial">Financieros</string>
+    <string name="bl_friday">Viernes</string>
+    <string name="bl_gestors">Gestores especializados en:</string>
+    <string name="bl_go_to_settings">Ir a ajustes</string>
+    <string name="bl_gps_locate_you">Necesitamos que nos des permiso para usar tu GPS</string>
+    <string name="bl_gps_mode">Necesitamos modo GPS de alta precisión para ubicarte</string>
+    <string name="bl_incidents_phone">Teléfono de incidencias</string>
+    <string name="bl_individuals">Sucursal Particulares</string>
+    <string name="bl_invalid_data">Datos Incorrectos</string>
+    <string name="bl_inversion">Inversiones</string>
+    <string name="bl_kilometer">%1$s km</string>
+    <string name="bl_list_tab_title">Lista</string>
+    <string name="bl_location">Ubicación</string>
+    <string name="bl_low_denomination_bills">Con billetes de baja denominación</string>
+    <string name="bl_make_appointment">Cita</string>
+    <string name="bl_map_tab_title">Mapa</string>
+    <string name="bl_meeting_rooms">Salas de reunión</string>
+    <string name="bl_meter">%1$s m</string>
+    <string name="bl_min">min.</string>
+    <string name="bl_monday">Lunes</string>
+    <string name="bl_mortgage">Hipoteca</string>
+    <string name="bl_most_popular">Más populares</string>
+    <string name="bl_multichanel_area">Área multicanal</string>
+    <string name="bl_network_ask_to_enable">¿Desea activar su acceso a datos?</string>
+    <string name="bl_network_disabled">No podemos acceder a la red</string>
+    <string name="bl_network_info">Información de red</string>
+    <string name="bl_network_offline">Has perdido la conexión a tu red. Los marcadores no podrán actualizarse</string>
+    <string name="bl_network_offline_try_again">No tienes acceso a la red, por favor inténtalo en unos instantes</string>
+    <string name="bl_network_online">Te has reconectado a la red</string>
+    <string name="bl_no_fee">Sin comisiones</string>
+    <string name="bl_non_financial">No financieros</string>
+    <string name="bl_notices_and_news">Avisos y noticias</string>
+    <string name="bl_now_available">Disponible ahora</string>
+    <string name="bl_open_now">Abierto ahora</string>
+    <string name="bl_opens_evenings">Abierto tardes</string>
+    <string name="bl_opens_saturdays">Abierto sábados</string>
+    <string name="bl_operative">Operativo</string>
+    <string name="bl_other_atms">Otros cajeros no Santander</string>
+    <string name="bl_out_of_order">Fuera de servicio</string>
+    <string name="bl_parking">Parking propio</string>
+    <string name="bl_parking_filters">Parking propio</string>
+    <string name="bl_partners">Tienda de corresponsal</string>
+    <string name="bl_pastor">Sucursal Pastor</string>
+    <string name="bl_pay">Pagar</string>
+    <string name="bl_permission">Permisos</string>
+    <string name="bl_phone">Número de contacto</string>
+    <string name="bl_placeholder_has_no_filters">No hay filtros aplicados</string>
+    <string name="bl_points_of_interest">Puntos de interés</string>
+    <string name="bl_popular">Sucursal Popular</string>
+    <string name="bl_private_banking">Sucursal Banca privada</string>
+    <string name="bl_pymes">- PYMES</string>
+    <string name="bl_pymes_filters">PYMES</string>
+    <string name="bl_reserve">Pedir cita</string>
+    <string name="bl_santader_select">Sucursal Select</string>
+    <string name="bl_santander">Santander</string>
+    <string name="bl_santander_atms_filters">Cajero Santander</string>
+    <string name="bl_saturday">Sábado</string>
+    <string name="bl_schedule">Horario de oficina</string>
+    <string name="bl_schedule_cash">Horario de Caja Presencial</string>
+    <string name="bl_search_in_this_place">Buscar en esta zona</string>
+    <string name="bl_search_placeholder">Busca aquí</string>
+    <string name="bl_security_box">Caja de seguridad</string>
+    <string name="bl_security_box_filters">Caja de seguridad</string>
+    <string name="bl_select">- Select</string>
+    <string name="bl_services">Servicios básicos</string>
+    <string name="bl_show_less">Ver menos</string>
+    <string name="bl_show_more">Ver más</string>
+    <string name="bl_special_schedule">Horario especial</string>
+    <string name="bl_sunday">Domingo</string>
+    <string name="bl_thursday">Jueves</string>
+    <string name="bl_toast_closest_search">Resultados más cercanos a tu búsqueda</string>
+    <string name="bl_toast_filter_apply">Filtros aplicados</string>
+    <string name="bl_toast_filter_no_results">No hay resultados para los filtros seleccionados</string>
+    <string name="bl_toast_filter_results_nearest">Resultados más cercanos para filtros seleccionados</string>
+    <string name="bl_toast_getting_position">Obteniendo ubicación actual</string>
+    <string name="bl_toast_no_filters">No tiene filtros configurados</string>
+    <string name="bl_toast_no_poi_area">No hay resultados en esta zona</string>
+    <string name="bl_toast_no_results">No hay resultados para </string>
+    <string name="bl_toast_search_empty">Por favor, escribe ciudad, dirección o CP para poder realizar la búsqueda</string>
+    <string name="bl_today">Hoy,</string>
+    <string name="bl_toolbar_title">Cajeros y oficinas</string>
+    <string name="bl_tuesday">Martes</string>
+    <string name="bl_undo_filter">Deshacer</string>
+    <string name="bl_videoconference">Videoconferencia</string>
+    <string name="bl_wednesday">Miércoles</string>
+    <string name="bl_wheelchair_access">Accesibilidad silla de ruedas</string>
+    <string name="bl_wifi">Wi-Fi</string>
+    <string name="bl_wifi_filters">Wi-Fi</string>
+    <string name="bl_withdraw_money">Sacar dinero</string>
+    <string name="bl_withdraw_without_card">Sacar dinero sin tarjeta</string>
+    <string name="bl_workcafe">Workcafe</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir hasta la mitad</string>
+    <string name="character_counter_content_description">Caracteres ingresados: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Se excedió en %1$d el límite de caracteres de %2$d</string>
+    <string name="clear_text_end_icon_content_description">Borrar texto</string>
+    <string name="dash_separator">-</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
+    <string name="icon_content_description">Ícono de diálogo</string>
+    <string name="item_view_role_description">Pestaña</string>
+    <string name="km">km</string>
+    <string name="loading">Cargando</string>
+    <string name="material_clock_toggle_content_description">Selecciona a.m. o p.m.</string>
+    <string name="material_hour_selection">Seleccione la hora.</string>
+    <string name="material_hour_suffix">%1$s en punto</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Cambia al modo de reloj para ingresar la hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Seleccionar la hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambia al modo de entrada de texto para ingresar la hora.</string>
+    <string name="milles">mi</string>
+    <string name="mtrl_badge_numberless_content_description">Notificación nueva</string>
+    <string name="mtrl_chip_close_icon_content_description">Quitar %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar al mes siguiente</string>
+    <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Seleccionar fecha</string>
+    <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato no válido</string>
+    <string name="mtrl_picker_invalid_format_example">Ejemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
+    <string name="mtrl_picker_invalid_range">El rango no es válido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navegar al año %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuera de rango: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Fecha de inicio - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - fecha de finalización</string>
+    <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecciona un período</string>
+    <string name="mtrl_picker_range_header_unselected">Fecha de inicio - fecha de finalización</string>
+    <string name="mtrl_picker_save">Guardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Fecha</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Fecha de finalización</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Fecha de inicio</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo de entrada de calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Presiona para seleccionar un día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Presiona para seleccionar un año</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
+    <style name="BL_FONT_SantanderHeadlineBold">
+        <item name="android:fontFamily">@font/santander_headline_bold</item>
+    </style>
+    <style name="BL_FONT_SantanderTextBold">
+        <item name="android:fontFamily">@font/santander_text_bold</item>
+    </style>
+    <style name="BL_FONT_SantanderTextLight">
+        <item name="android:fontFamily">@font/santander_text_light</item>
+    </style>
+    <style name="BL_FONT_SantanderTextRegular">
+        <item name="android:fontFamily">@font/santander_text_regular</item>
+    </style>
+    <style name="BL_TabTitle" parent="android:style/TextAppearance.Widget.TabWidget"/>
+    <style name="BL_atm_accesibility">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:src">@drawable/ic_accesibility</item>
+    </style>
+    <style name="BL_atm_aditional_services">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:src">@drawable/ic_additional_services</item>
+    </style>
+    <style name="BL_atm_basic_services">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:src">@drawable/bl_ic_basic_services</item>
+    </style>
+    <style name="BL_atm_location_img">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:src">@drawable/bl_ic_localization</item>
+    </style>
+    <style name="BL_atm_news_img">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:src">@drawable/ic_info</item>
+    </style>
+    <style name="BL_atm_opening_hour_img">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:src">@drawable/bl_ic_schedule_outlined</item>
+    </style>
+    <style name="BL_branch_atm_text_detail" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/bl_text_size_14</item>
+        <item name="android:textColor">@color/medium_grey</item>
+    </style>
+    <style name="BL_branch_general_relative_img">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">@dimen/app_padding_small</item>
+    </style>
+    <style name="BL_branch_phone_img">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:src">@drawable/bl_ic_phone_outlined</item>
+    </style>
+    <style name="BL_branch_schedule">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:src">@drawable/bl_ic_schedule_outlined</item>
+    </style>
+    <style name="BL_cluster_text" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/bl_text_size_14</item>
+        <item name="android:textColor">@color/santander_red</item>
+        <item name="android:layout_marginTop">9dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="BL_filters_background">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/sky_30</item>
+        <item name="android:clipToPadding">false</item>
+    </style>
+    <style name="BL_filters_delete_button_text" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">96dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:background">@drawable/button_border</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/bl_text_size_13</item>
+        <item name="android:textColor">@color/santander_red</item>
+    </style>
+    <style name="BL_filters_detail_text" parent="BL_FONT_SantanderTextBold">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:textSize">@dimen/bl_text_size_15</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="BL_filters_header_text" parent="BL_FONT_SantanderTextBold">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/bl_text_size_17</item>
+    </style>
+    <style name="BL_filters_header_text_title" parent="BL_FONT_SantanderTextBold">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">@dimen/bl_text_size_15</item>
+    </style>
+    <style name="BL_filters_layout_row">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="BL_filters_show_more_text" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginBottom">@dimen/bl_text_size_12</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+    <style name="BL_filters_view_separator_list">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+    </style>
+    <style name="BL_filters_view_separator_mex">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/light_grey</item>
+    </style>
+    <style name="BL_fragment_closing_in_text" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:paddingRight">@dimen/app_padding_tiny</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+    <style name="BL_fragment_header_text" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/medium_grey</item>
+        <item name="android:textSize">@dimen/bl_text_size_14</item>
+    </style>
+    <style name="BL_fragment_header_text_schedule" parent="BL_fragment_header_text">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginTop">@dimen/app_padding_small</item>
+    </style>
+    <style name="BL_fragment_header_two_text" parent="BL_FONT_SantanderTextBold">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/bl_text_size_14</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="BL_fragment_header_two_text_detail" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/bl_text_size_14</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+    <style name="BL_general_margin_relative_img">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="BL_general_margin_relative_img_withoutBottom">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="BL_general_margin_relative_img_without_bottom">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginBottom">@dimen/app_padding_normal</item>
+        <item name="android:layout_marginTop">@dimen/app_padding_small</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="BL_general_relative_img">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+    </style>
+    <style name="BL_img_mex_base">
+        <item name="android:layout_width">24dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="BL_info_card_address_text" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/bl_text_size_13</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:layout_marginEnd">@dimen/app_padding_small</item>
+        <item name="android:layout_marginRight">@dimen/app_padding_small</item>
+        <item name="android:textColor">@color/medium_grey</item>
+    </style>
+    <style name="BL_info_card_appointment" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">115dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_marginTop">@dimen/app_padding_small</item>
+        <item name="android:background">@drawable/bl_red_border_outline</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/bl_text_size_13</item>
+        <item name="android:textColor">@color/santander_red</item>
+    </style>
+    <style name="BL_info_card_btn_route_background">
+        <item name="android:layout_width">115dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:background">@drawable/bl_blue_border_route</item>
+    </style>
+    <style name="BL_info_card_btn_route_image">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/bl_ic_route</item>
+    </style>
+    <style name="BL_info_card_btn_route_text" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/app_padding_small</item>
+        <item name="android:paddingRight">@dimen/app_padding_tiny</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/bl_text_size_13</item>
+    </style>
+    <style name="BL_info_card_closest_result" parent="BL_FONT_SantanderHeadlineBold">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/bl_text_size_14</item>
+        <item name="android:textColor">@color/santander_red</item>
+    </style>
+    <style name="BL_info_card_name_office_text" parent="BL_FONT_SantanderTextBold">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/bl_text_size_15</item>
+        <item name="android:textColor">@color/medium_grey</item>
+    </style>
+    <style name="BL_info_card_subtype_office_text" parent="BL_FONT_SantanderTextLight">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/bl_text_size_13</item>
+        <item name="android:textColor">@color/medium_grey</item>
+    </style>
+    <style name="BL_list_chevron">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/ic_chevron_right_24dp</item>
+    </style>
+    <style name="BL_list_distance" parent="@style/BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/bl_text_size_13</item>
+    </style>
+    <style name="BL_list_subtitle" parent="@style/BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/app_padding_tiny</item>
+        <item name="android:lineSpacingMultiplier">0.7</item>
+        <item name="android:textColor">@color/medium_grey</item>
+        <item name="android:textSize">@dimen/bl_text_size_14</item>
+        <item name="android:maxWidth">@dimen/tv_poi_item_max_width</item>
+    </style>
+    <style name="BL_list_title" parent="@style/BL_FONT_SantanderTextBold">
+        <item name="android:textColor">@color/santander_red</item>
+        <item name="android:textSize">@dimen/bl_text_size_15</item>
+        <item name="android:maxWidth">@dimen/tv_poi_item_max_width</item>
+    </style>
+    <style name="BL_map_layout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="BL_phone_linear_layout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginBottom">@dimen/app_padding_normal</item>
+        <item name="android:layout_marginTop">@dimen/app_padding_small</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="BL_search_area_autocomplete">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="buttom_search">@drawable/bl_ic_red</item>
+    </style>
+    <style name="BL_search_area_background">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">@color/medium_sky</item>
+        <item name="android:layout_marginLeft">@dimen/app_padding_small</item>
+        <item name="android:layout_marginTop">@dimen/app_padding_small_plus</item>
+        <item name="android:layout_marginRight">@dimen/app_padding_small</item>
+        <item name="android:layout_marginBottom">@dimen/app_padding_small</item>
+        <item name="android:background">@drawable/bl_white_border_searcharea</item>
+    </style>
+    <style name="BL_search_area_filter">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="show_filter_text">true</item>
+        <item name="icon_filter_src">@drawable/bl_ic_filter</item>
+    </style>
+    <style name="BL_search_area_filter_text" parent="BL_FONT_SantanderTextRegular">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:textSize">@dimen/bl_text_size_15</item>
+    </style>
+    <style name="BL_search_area_image">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">@dimen/app_padding_small</item>
+        <item name="android:src">@drawable/bl_ic_search_area</item>
+    </style>
+    <style name="BL_tabLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="tabTextAppearance">@android:style/TextAppearance.Widget.TabWidget</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabIndicatorColor">@color/santander_red</item>
+        <item name="tabMode">fixed</item>
+        <item name="tabSelectedTextColor">@color/grey</item>
+        <item name="tabTextColor">@color/medium_grey</item>
+    </style>
+    <style name="BL_tabLayout_detail">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="tabTextAppearance">@android:style/TextAppearance.Widget.TabWidget</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabIndicatorColor">@color/santander_red</item>
+        <item name="tabMode">fixed</item>
+        <item name="tabSelectedTextColor">@color/grey</item>
+        <item name="tabTextColor">@color/medium_grey</item>
+    </style>
+    <style name="BL_tab_text_appearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="BL_toolbar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:background">@drawable/bl_toolbar_gradient</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="BL_toolbar_back_image">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginLeft">@dimen/app_padding_normal</item>
+        <item name="android:src">@drawable/bl_ic_atras</item>
+    </style>
+    <style name="BL_toolbar_right_image">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:paddingRight">@dimen/app_padding_normal</item>
+    </style>
+    <style name="BL_toolbar_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/bl_header_logo</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="BL_view_separator">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/medium_sky</item>
+    </style>
+    <style name="BL_view_separator_margin_bottom" parent="BL_view_separator">
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+    <style name="BL_view_separator_margin_top" parent="BL_view_separator">
+        <item name="android:layout_marginTop">@dimen/app_padding_normal</item>
+    </style>
+    <style name="BL_view_separator_mex">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/medium_sky</item>
+    </style>
+    <style name="Base.Widget.Design.TabLayout" ns1:override="true" parent="android:Widget">
+        <item name="tabIndicatorHeight">3dp</item>
+    </style>
+    <style name="BranchLocatorTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/boston_red</item>
+        <item name="colorPrimaryDark">@color/boston_red</item>
+        <item name="colorAccent">@color/boston_red</item>
+    </style>
+</resources>

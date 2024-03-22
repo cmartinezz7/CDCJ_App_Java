@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nowe powiadomienie</item>
+    <item quantity="few">%d nowe powiadomienia</item>
+    <item quantity="many">%d nowych powiadomień</item>
+    <item quantity="other">%d nowego powiadomienia</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Przejdź na stronę główną"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Pokaż wszystko"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"WŁ."</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcyjny+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spacja"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zapytanie"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Udostępnij przez:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="bl_24_hours">24h</string>
+    <string name="bl_accessibility">Dostępność</string>
+    <string name="bl_accessibility_handicaped">Obsługa Bez Barier</string>
+    <string name="bl_additional_services">Usługi dodatkowe</string>
+    <string name="bl_aditional_services_filters">Usługi dodatkowe</string>
+    <string name="bl_apply_filter">Zastosuj filtry</string>
+    <string name="bl_atm">Bankomat</string>
+    <string name="bl_audio_guidance">Audio guidance</string>
+    <string name="bl_bill_payments">Płatności za rachunki</string>
+    <string name="bl_braches_and_atms">Placówki i bankomaty</string>
+    <string name="bl_branch">Placówka</string>
+    <string name="bl_branchInfoATM">Bankomat Santander</string>
+    <string name="bl_branchInfoBranch">Placówka Santander</string>
+    <string name="bl_branchInfoCorresponsales">Santander Corresponsal</string>
+    <string name="bl_call">Połącz</string>
+    <string name="bl_cancel">Anuluj</string>
+    <string name="bl_card_issuer">Wydawca karty</string>
+    <string name="bl_clear_filter">Usuń wszystko</string>
+    <string name="bl_closed">Zamknięty</string>
+    <string name="bl_closest_branch">Najbliższy punkt</string>
+    <string name="bl_closing_in">Closing in</string>
+    <string name="bl_closing_in_closed">Closed</string>
+    <string name="bl_closing_in_open">Czynny teraz</string>
+    <string name="bl_companies">Korporacje</string>
+    <string name="bl_contactless">Contactless</string>
+    <string name="bl_coworking_spaces">Przestrzenie Co-Working</string>
+    <string name="bl_coworking_spaces_filters">Przestrzenie Co-Working</string>
+    <string name="bl_deposit_money">Wpłata gotówki</string>
+    <string name="bl_drive_thru">Drive thru</string>
+    <string name="bl_english_spoken">Z językiem angielskim</string>
+    <string name="bl_facilities">Udogodnienia</string>
+    <string name="bl_fees_basic_clients">Opłaty %1$s</string>
+    <string name="bl_fees_basic_no_clients">Klienci: %1$s</string>
+    <string name="bl_fees_no_client">Pozostali: %1$s</string>
+    <string name="bl_fees_no_fee">Bez opłat</string>
+    <string name="bl_fees_santander">Klienci Santander: %1$s</string>
+    <string name="bl_fees_select">Klienci Select: %1$s</string>
+    <string name="bl_fees_title">Opłaty</string>
+    <string name="bl_filter">Filtr</string>
+    <string name="bl_filter_title">Filtry</string>
+    <string name="bl_filters"><u>Filtry</u></string>
+    <string name="bl_financial">Finansowe</string>
+    <string name="bl_friday">Piątek</string>
+    <string name="bl_gestors">Doradca specjalizuje się w:</string>
+    <string name="bl_go_to_settings">Idź do ustawień</string>
+    <string name="bl_gps_locate_you">Zezwól nam na wyszukanie Twojej pozycji i najbliższych punktów za pomocą GPS</string>
+    <string name="bl_gps_mode">Potrzebujemy trybu GPS o wysokiej dokładności, aby Cię zlokalizować</string>
+    <string name="bl_incidents_phone">Telefon alarmowy</string>
+    <string name="bl_individuals">Klienci Indywidualni</string>
+    <string name="bl_invalid_data">Invalid data</string>
+    <string name="bl_inversion">Inwersje</string>
+    <string name="bl_kilometer">%1$s km</string>
+    <string name="bl_list_tab_title">Lista</string>
+    <string name="bl_location">Lokalizacja</string>
+    <string name="bl_low_denomination_bills">Banknoty o niskich nominałach</string>
+    <string name="bl_make_appointment">Spotkanie</string>
+    <string name="bl_map_tab_title">Mapa</string>
+    <string name="bl_meeting_rooms">Pokoje spotkań</string>
+    <string name="bl_meter">%1$s m</string>
+    <string name="bl_min">min.</string>
+    <string name="bl_monday">Poniedziałek</string>
+    <string name="bl_mortgage">Hipoteka</string>
+    <string name="bl_most_popular">Często używane</string>
+    <string name="bl_multichanel_area">Strefa samoobsługowa</string>
+    <string name="bl_network_ask_to_enable">Enable mobile data?</string>
+    <string name="bl_network_disabled">Unable to access data</string>
+    <string name="bl_network_info">Network info</string>
+    <string name="bl_network_offline">You have lost connection to your network. Markers won\'t be able to update</string>
+    <string name="bl_network_offline_try_again">You haven\'t access to your network. Please try in a few minutes</string>
+    <string name="bl_network_online">You reconnected to your network</string>
+    <string name="bl_no_fee">Bez opłat</string>
+    <string name="bl_non_financial">Nie finansowe</string>
+    <string name="bl_notices_and_news">Powiadomienia i wiadomości</string>
+    <string name="bl_now_available">Czynny teraz</string>
+    <string name="bl_open_now">Otwórz teraz</string>
+    <string name="bl_opens_evenings">Otwarty wieczorem</string>
+    <string name="bl_opens_saturdays">Otwarty w sobotę</string>
+    <string name="bl_operative">Czynny</string>
+    <string name="bl_other_atms">Pozostałe bankomaty</string>
+    <string name="bl_out_of_order">Nieczynny</string>
+    <string name="bl_parking">Parking</string>
+    <string name="bl_parking_filters">Parking</string>
+    <string name="bl_partners">Partnerzy</string>
+    <string name="bl_pastor">Bank Pastor</string>
+    <string name="bl_pay">Płatności</string>
+    <string name="bl_permission">Zgoda</string>
+    <string name="bl_phone">Numer kontaktowy</string>
+    <string name="bl_placeholder_has_no_filters">Nie wybrano filtrów</string>
+    <string name="bl_points_of_interest">Points Of Interest</string>
+    <string name="bl_popular">Bank Popular</string>
+    <string name="bl_private_banking">Private banking</string>
+    <string name="bl_pymes">- MŚP</string>
+    <string name="bl_pymes_filters">MŚP</string>
+    <string name="bl_reserve">Umów spotkanie</string>
+    <string name="bl_santader_select">Santander Select</string>
+    <string name="bl_santander">Santander</string>
+    <string name="bl_santander_atms_filters">Bankmaty Santander</string>
+    <string name="bl_saturday">Sobota</string>
+    <string name="bl_schedule">Godziny urzędowania</string>
+    <string name="bl_schedule_cash">Harmonogram gotówkowy na miejscu</string>
+    <string name="bl_search_in_this_place">Szukaj w tym obszarze</string>
+    <string name="bl_search_placeholder">Szukaj tutaj</string>
+    <string name="bl_security_box">Skrytka depozytowa</string>
+    <string name="bl_security_box_filters">Skrytki depozytowe</string>
+    <string name="bl_select">- Select</string>
+    <string name="bl_services">Usługi podstawowe</string>
+    <string name="bl_show_less">Mniej</string>
+    <string name="bl_show_more">Więcej</string>
+    <string name="bl_special_schedule">Specjalne godziny otwarcia</string>
+    <string name="bl_sunday">Niedziela</string>
+    <string name="bl_thursday">Czwartek</string>
+    <string name="bl_toast_closest_search">Wyniki najbardziej zbliżone do wyszukiwania</string>
+    <string name="bl_toast_filter_apply">Filters applied</string>
+    <string name="bl_toast_filter_no_results">Brak wyników dla wybranych filtrów</string>
+    <string name="bl_toast_filter_results_nearest">Closest results for selected filters</string>
+    <string name="bl_toast_getting_position">Uzyskiwanie aktualnej pozycji</string>
+    <string name="bl_toast_no_filters">There isn\'t filters configured</string>
+    <string name="bl_toast_no_poi_area">Brak rezultatów na tym obszarze</string>
+    <string name="bl_toast_no_results">Brak wyników dla </string>
+    <string name="bl_toast_search_empty">Wpisz miasto, adres lub kod pocztowy, aby móc przeprowadzić wyszukiwanie</string>
+    <string name="bl_today">Ładowanie</string>
+    <string name="bl_toolbar_title">Bankomaty i biura</string>
+    <string name="bl_tuesday">Wtorek</string>
+    <string name="bl_undo_filter">Cofnij</string>
+    <string name="bl_videoconference">Videokonferencja</string>
+    <string name="bl_wednesday">Środa</string>
+    <string name="bl_wheelchair_access">Obsługa bez barier</string>
+    <string name="bl_wifi">Wi-Fi</string>
+    <string name="bl_wifi_filters">WIFI</string>
+    <string name="bl_withdraw_money">Wypłata gotówki</string>
+    <string name="bl_withdraw_without_card">Wypłata bez karty</string>
+    <string name="bl_workcafe">Workcafe</string>
+    <string name="bottomsheet_action_expand_halfway">Rozwiń do połowy</string>
+    <string name="character_counter_content_description">%1$d z %2$d znaków</string>
+    <string name="character_counter_overflowed_content_description">Przekroczono limit znaków (%1$d z %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Wyczyść tekst</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Włącz"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie włączysz Usług Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Włącz Usługi Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Zainstaluj"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zainstalujesz na urządzeniu Usług Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Pobierz Usługi Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Dostępność Usług Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Błąd Usług Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, które nie są obecnie obsługiwane przez urządzenie."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizuj"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zaktualizujesz Usług Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Zaktualizuj Usługi Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, które są obecnie aktualizowane."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Wymagana jest nowa wersja Usług Google Play. Wkrótce nastąpi automatyczna aktualizacja."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otwórz na telefonie"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Zaloguj się"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Zaloguj się przez Google"</string>
+    <string name="dash_separator">-</string>
+    <string name="error_icon_content_description">Błąd</string>
+    <string name="exposed_dropdown_menu_content_description">Pokaż menu</string>
+    <string msgid="9521340570209730" name="gcm_fallback_notification_channel_label">"Inne"</string>
+    <string name="icon_content_description">Ikona okna</string>
+    <string name="item_view_role_description">Karta</string>
+    <string name="km">km</string>
+    <string name="material_clock_toggle_content_description">Wybierz: przed południem czy po południu</string>
+    <string name="material_hour_selection">Wybierz godzinę</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Wybierz minuty</string>
+    <string name="material_minute_suffix">%1$s minut</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Aby wprowadzić czas, włącz tryb zegara.</string>
+    <string name="material_timepicker_hour">Godzina</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Określ czas</string>
+    <string name="material_timepicker_text_input_mode_description">Aby wprowadzić czas, włącz tryb wprowadzania tekstu.</string>
+    <string name="milles">mi</string>
+    <string name="mtrl_badge_numberless_content_description">Nowe powiadomienie</string>
+    <string name="mtrl_chip_close_icon_content_description">Usuń: (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Liczba nowych powiadomień przekracza %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Zmień na następny miesiąc</string>
+    <string name="mtrl_picker_a11y_prev_month">Zmień na poprzedni miesiąc</string>
+    <string name="mtrl_picker_announce_current_selection">Bieżący wybór: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Wybierz datę</string>
+    <string name="mtrl_picker_date_header_unselected">Wybrana data</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolumna z dniami: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nieprawidłowy format.</string>
+    <string name="mtrl_picker_invalid_format_example">Przykład: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Użyj formatu: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Nieprawidłowy zakres.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Przejdź do roku %1$s</string>
+    <string name="mtrl_picker_out_of_range">Poza zakresem: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data rozpoczęcia – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – data zakończenia</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Wybierz zakres</string>
+    <string name="mtrl_picker_range_header_unselected">Data rozpoczęcia – data zakończenia</string>
+    <string name="mtrl_picker_save">Zapisz</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data zakończenia</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data rozpoczęcia</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">r</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Włącz kalendarzowy tryb wprowadzania</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Kliknij, by wybrać dzień</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Włącz tekstowy tryb wprowadzania</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Kliknij, by wybrać rok</string>
+    <string name="password_toggle_content_description">Pokaż hasło</string>
+    <string name="places_autocomplete_clear_button">Wyczyść wyszukiwanie</string>
+    <string name="places_autocomplete_label">Wybierz miejsce</string>
+    <string name="places_autocomplete_no_results_for_query">Brak wyników dla zapytania „%1$s”</string>
+    <string name="places_autocomplete_search_hint">Szukaj</string>
+    <string name="places_cancel">Anuluj</string>
+    <string name="places_powered_by_google">Technologia Google</string>
+    <string name="places_search_error">Nie można wczytać wyników wyszukiwania.</string>
+    <string name="places_try_again">Spróbuj ponownie</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Szukaj"</string>
+    <string name="securekeyboard_OK">Dobrze</string>
+    <string name="securekeyboard_cancel">Anuluj</string>
+    <string name="securekeyboard_continue">Dalej</string>
+    <string name="securekeyboard_done">Gotowe</string>
+    <string name="securekeyboard_title_select_keyboard_language">Wybierz język klawiatury</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

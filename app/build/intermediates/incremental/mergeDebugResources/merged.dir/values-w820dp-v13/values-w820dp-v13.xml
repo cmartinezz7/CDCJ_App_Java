@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="height_row_noticias_home">175dp</dimen>
+    <dimen name="text_to_read_l">26dp</dimen>
+    <dimen name="text_to_read_m">20dp</dimen>
+    <dimen name="text_to_read_n">16dp</dimen>
+    <dimen name="text_to_read_p">13dp</dimen>
+</resources>
