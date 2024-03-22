@@ -15,7 +15,6 @@
         <sonar.organization>cmartinezz7-2</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <!-- Recomendado: Configura el token de SonarCloud como una variable de entorno o a través de tu CI/CD -->
-        <!-- <sonar.token>TU_TOKEN_SONARCLOUD_AQUÍ</sonar.token> -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
